@@ -46,8 +46,12 @@ def pick_file(title="Select a file", filetypes=None):
 def pick_files(title="Select one or more resume files"):
     if CI_MODE:
         print("[CI] Skipping GUI for resumes, using test folder files.")
-        folder = Path("data/test_resumes")
-        return sorted(folder.glob("*.*"))  # Adjust file types if needed
+        folder = Path("data/test_resumes/resumes")  # <-- add 'resumes' subfolder here
+        files = sorted(folder.glob("*.*"))  # adjust extensions if you want, e.g., "*.pdf"
+        if not files:
+            print("[CI] No resumes found in test folder, exiting.")
+            exit(1)
+        return files
 
     try:
         from tkinter import Tk, filedialog
