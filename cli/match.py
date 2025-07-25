@@ -1,45 +1,66 @@
 import sys
 import os
+from pathlib import Path
+
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from pathlib import Path
-from tkinter import Tk, filedialog
-
 from app.parser import extract_text
-
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
 def pick_file(title="Select a file", filetypes=None):
-    if filetypes is None:
-        filetypes = [
-            ("Text files", "*.txt"),
-            ("PDF files", "*.pdf"),
-            ("Word documents", "*.docx"),
-        ]
-    root = Tk()
-    root.withdraw()
-    file_path = filedialog.askopenfilename(title=title, filetypes=filetypes)
-    root.update()
-    return Path(file_path) if file_path else None
+    # Use hardcoded test path in CI
+    if os.environ.get("CI") == "true":
+        print(f"[CI] Skipping GUI for job description")
+        return Path("data/job_descriptions/sample_jd.txt")
+
+    # GUI fallback for local usage
+    try:
+        from tkinter import Tk, filedialog
+
+        if filetypes is None:
+            filetypes = [
+                ("Text files", "*.txt"),
+                ("PDF files", "*.pdf"),
+                ("Word documents", "*.docx"),
+            ]
+        root = Tk()
+        root.withdraw()
+        file_path = filedialog.askopenfilename(title=title, filetypes=filetypes)
+        root.update()
+        return Path(file_path) if file_path else None
+    except Exception as e:
+        print("GUI not supported. Exiting.")
+        print(e)
+        return None
 
 
 def pick_files(title="Select one or more resume files"):
-    root = Tk()
-    root.withdraw()
-    file_paths = filedialog.askopenfilenames(
-        title=title,
-        filetypes=[
-            ("Documents", "*.pdf *.docx *.txt"),
-        ],
-    )
-    root.update()
-    return [Path(p) for p in file_paths] if file_paths else []
+    if os.environ.get("CI") == "true":
+        print(f"[CI] Skipping GUI for resumes")
+        folder = Path("data/test_resumes")
+        return sorted(folder.glob("*.pdf"))  # Or adjust file types as needed
+
+    try:
+        from tkinter import Tk, filedialog
+
+        root = Tk()
+        root.withdraw()
+        file_paths = filedialog.askopenfilenames(
+            title=title,
+            filetypes=[("Documents", "*.pdf *.docx *.txt")],
+        )
+        root.update()
+        return [Path(p) for p in file_paths] if file_paths else []
+    except Exception as e:
+        print("GUI not supported. Exiting.")
+        print(e)
+        return []
 
 
 def score_resumes(jd_text, resume_texts):
-    vectorizer = TfidfVectorizer(stop_words="english")
+    vectorizer = TfidfVectorizer(stop_words="english", ngram_range=(1, 2))
     vectorizer.fit([jd_text])
     jd_vector = vectorizer.transform([jd_text])
     resume_vectors = vectorizer.transform(resume_texts)
