@@ -31,6 +31,9 @@ jobs:
         run: |
           docker build -t nextrole-test .
 
-      - name: Skip GUI CLI Matcher Test in CI
+      - name: Set environment variable for CI
+        run: echo "CI=true" >> $GITHUB_ENV
+
+      - name: Run CLI Matcher Test (skips GUI in CI)
         run: |
-          echo "Skipping GUI-based CLI test in CI (Tkinter requires display)"
+          python cli/match.py --jd data/job_descriptions/sample_jd.txt --resumes data/test_resumes
