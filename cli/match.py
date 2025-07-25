@@ -1,5 +1,10 @@
 import sys
 import os
+
+if os.environ.get("CI") == "true":
+    print("Skipping GUI test in CI (Tkinter needs display).")
+    exit(0)
+
 from pathlib import Path
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
@@ -7,13 +12,6 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')
 from app.parser import extract_text
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-
-import os
-
-if os.environ.get("CI") == "true":
-    print("Skipping GUI test in CI (Tkinter needs display).")
-    exit(0)
-
 
 def pick_file(title="Select a file", filetypes=None):
     # Use hardcoded test path in CI
