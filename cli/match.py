@@ -1,9 +1,14 @@
 import sys
 import os
 
-if os.environ.get("CI") == "true":
-    print("Skipping GUI test in CI (Tkinter needs display).")
-    exit(0)
+print("Environment variables:", dict(os.environ))  # DEBUG: shows all env vars
+
+CI_MODE = os.environ.get("CI", "").lower() == "true" or os.environ.get("RUN_IN_CI", "").lower() == "true"
+
+if CI_MODE:
+    print("Running in CI mode, skipping GUI.")
+else:
+    print("Running in local mode with GUI.")
 
 from pathlib import Path
 
@@ -14,12 +19,10 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 def pick_file(title="Select a file", filetypes=None):
-    # Use hardcoded test path in CI
-    if os.environ.get("CI") == "true":
-        print(f"[CI] Skipping GUI for job description")
+    if CI_MODE:
+        print("[CI] Skipping GUI for job description, using fixed test file.")
         return Path("data/job_descriptions/sample_jd.txt")
 
-    # GUI fallback for local usage
     try:
         from tkinter import Tk, filedialog
 
@@ -41,10 +44,10 @@ def pick_file(title="Select a file", filetypes=None):
 
 
 def pick_files(title="Select one or more resume files"):
-    if os.environ.get("CI") == "true":
-        print(f"[CI] Skipping GUI for resumes")
+    if CI_MODE:
+        print("[CI] Skipping GUI for resumes, using test folder files.")
         folder = Path("data/test_resumes")
-        return sorted(folder.glob("*.pdf"))  # Or adjust file types as needed
+        return sorted(folder.glob("*.*"))  # Adjust file types if needed
 
     try:
         from tkinter import Tk, filedialog
