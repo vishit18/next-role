@@ -11,26 +11,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Code
-      uses: actions/checkout@v3
+      - name: Checkout Code
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.11
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
 
-    - name: Install Dependencies
-      run: |
-        pip install -r requirements.txt
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
 
-    - name: Run Lint (basic check)
-      run: |
-        python -m py_compile app/*.py cli/*.py
+      - name: Run Lint (basic check)
+        run: |
+          python -m py_compile app/*.py cli/*.py
 
-    - name: Build Docker Image
-      run: |
-        docker build -t nextrole-test .
+      - name: Build Docker Image
+        run: |
+          docker build -t nextrole-test .
 
-    - name: Skip GUI CLI Matcher Test in CI
-      run: |
-        echo "Skipping GUI-based CLI test in CI (Tkinter requires display)"
+      - name: Skip GUI CLI Matcher Test in CI
+        run: |
+          echo "Skipping GUI-based CLI test in CI (Tkinter requires display)"
