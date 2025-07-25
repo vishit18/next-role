@@ -1,0 +1,51 @@
+senior data analyst  data analytics team
+
+brooklyn new york
+
+company overview
+
+since  our founding mission at strongarm technologies has been unwavering keep the worlds industrial athletes proud protected and productive
+
+we recognize that the beating heart of our economy is made up of millions of hardworking and dedicated individuals who put their bodies on the line to perform critical job functions that positively impacts lives beyond their own but that responsibility doesnt come without its consequences far too often preventable workplace injuries lead to lost shifts missed paychecks and threatened livelihoods that to us is unacceptable
+
+industrial athletes deserve an advocate and a platform dedicated to ensuring they get home safely after every shift more than  workplace injuries across numerous job types industries and operating environments occur around the world each hour and our passionate team is fixated on solving this unnecessary problem through the use of technology
+
+from our home base in brooklyn new york strongarm technologies develops innovative solutions and analyzes millions of hours of data setting the foundation to help us achieve our mission of eliminating preventable workplace injury from a couple of guys in a tech incubator to a company of more than  employees our knowledge base and worldclass pool of talent continues to develop as we grow the organization with a focus on endtoend product development data analytics security client success operations and more
+in order to most effectively prevent injuries in a given operational environment we work closely with each client across many dedicated and leadingedge teams including client services data and engineering it security and others each safety program is tailored to the needs of the workers on the ground and the managers who oversee them the result is an actionable and scalable safety solution that seamlessly becomes part of a facilitys daily routine and is proven to prevent workplace injuries by as much as 
+
+position overview
+
+as a senior data analyst at strongarm you will play a vital role in creating and delivering insights to our clients you will be leading the insights for a book of clients and will be critical in helping communicate product value and unique insights to our customers as a member of the data team you will have access to a massive dataset of iot sensor data focused on improved workplace safety you will be a key player in developing new features and analysis to improve the lives of workers
+
+in this role you will be highly collaborative  with our client team engineering team data team and our clients interpersonal skills and the ability to learn and act quickly are crucial to succeeding in this role you will be a key player in transforming rd concepts into formal deliverables for our clients you will present data analysis frequently to external and internal clients and will need to build analytics systems that further our capacity to deliver insights
+
+the ideal candidate for this position has a strong background in analytics and significant experience delivering technical presentations to varied audiences this individual will enjoy splitting their time between the technical development work and interfacing with clients directly we are looking for a selfstarter with a solid foundation of statistical principles combined with a desire to be the goto person for data analysis in a fastgrowing startup making a tangible difference on working peoples lives
+
+essential functions
+ explore our vast data sets to identify interesting trends and unique insights to share with our customers that will drive business value and aha moments
+ create and present technical reports and data analytics to clients and external partners leverage strongarms unique data to provide insights and actionable recommendations to our clients
+ collaborate with clients and the client team and the client on a daily basis use data to meet their needs and create compelling stories and relationships through data
+ lead key data projects to continuously advance the value of our business offerings
+ collaborate with data scientists engineers product and business teams to ensure our data products meet business needs and that they continually improve
+ execute both short term ad hoc requests for visualizations dashboards and model changes as well as longer term analyses and projects
+ facilitate successful data rollouts of the platform in a range of safety contexts including data visualization ergonomics behavioral science and sensing technologies
+ utilize sql and cloudbased database systems used for data analysis
+ ensure solid analysis principles and data practices are used throughout all levels of the organization
+ ensure high quality data integrity for all underlying data sets and reports
+ utilize data monitoring tools to evaluate programs and internal data structures
+
+key requirements  qualifications
+  years of relevant work experience in data analysis business analysis engineering consulting statistics mathematics or other similar analytical roles
+ significant expertise conducting data analysis that involves databases and data visualization platforms sql python excel github google sheets are a must
+ experience with databricksjupyternotebook environments r or other scripting languages
+ significant experience within bi tools such as looker tableau powerbi or google data studio
+ a passion for using data to craft insights tell stories and use visualizations to help solve realworld problems
+ experience giving presentations to many audiences and seniority levels ability to translate complex findings and technical concepts in a clear easy to understand way to both technical and nontechnical audiences
+ experience leading and participating in complex projects which impact multiple teams
+ significant experience in all steps of the data transformation process including but not limited to connecting data sources wrangling and cleaning data identifying gaps and developing insights
+ experience with statistical analysis experimentation design scientific methods
+ detailoriented and meticulously organized comfortable aggregating auditing and manipulating large data sets efficiently and accurately
+ experience working in a fastpaced crossfunctional environment prioritizing assignments and handling multiple tasks simultaneously and independently
+ desire to grow learn solve problems and expand responsibilities within the data team in a fastpaced startup environment
+
+strongarm technologies is an equal opportunity employer

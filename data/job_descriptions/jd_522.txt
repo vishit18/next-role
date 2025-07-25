@@ -1,0 +1,34 @@
+we are looking for senior embedded c developer for our client in clifton nj
+job title senior embedded c developer
+job location clifton nj
+job type contract
+job description
+
+requirements
+ must have real time operating systems experience
+ experience with c andor ada
+ responsible for research design and development of computer software systems in conjunction with hardware product development
+ primarily responsible for the design and development of software products for a variety of software applications
+ participates in all phases of the software development life cycle including requirements analysis design implementation integration and test of software products
+ applies computer science engineering and mathematical analysis concepts and principles in the development of software for the target application
+ works closely with cross functional members of the engineering organization to develop and evaluate interfaces between hardware and software and operational performance requirements and design of the overall system
+ develops software test procedures software programs and related documentation
+ contributes to determining estimating and validating the cost and scope of software efforts to ensure software performed meets program cost schedule and technical constraints
+ subject matter expert with comprehensive knowledge of the job area and indepth knowledge of project management
+ manages large complex project initiatives of substantial importance to the organization with minimal oversight or direction
+ communicates within and outside of the organization to explain and influence changes to practices processes and approaches
+ makes significant improvements in processes systems or products
+ provides input into new productsprocesses and implements operational plans that have measurable impact on business or functional results
+qualifications
+ babs in computer science electrical engineering or related engineering field and  years experience
+nice  to  haves skills
+ embedded background
+ electronic warfare knowledge
+ ew background
+ capable of working on both high and low level software
+ vxworks or similar embedded os experience
+ uml design experience
+must haves skills
+  years of embedded software engineering experience
+  years experience with c andor ada
+  years real time operating systems experience

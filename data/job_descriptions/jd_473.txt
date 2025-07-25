@@ -1,0 +1,21 @@
+performs application onboarding for new third party and unfcu developed applications as well as complex upgrades for existing applications to ensure conformance with unfcu and industry guidelines for business and technical requirements as well as maintain high levels of security and availability of applications performs complex analysis on application issues upon escalation from lower level support teams and focuses on the ongoing capacity planning maintenance procedures and overall improvement of the application platform to deliver highquality and costeffective services to meet both short and longterm business requirements
+
+this position is expected to be hybrid due to the nature of our business in new york city please note that unfcu will require that you show current proof of covid vaccination upon acceptance of employment
+
+nyc salary range     annually compensation is commensurate to geographic location
+ administer various third party and unfcu developed applications including but not limited to digital banking dna core banking system and related application servers middleware tools such as mule dna connect dna multipoint etc by performing regular maintenance in the form of monitoring server side events applying patches service packs and other fixes
+ provide technical assistance to it staff in the monitoring and reporting of system performance and the detection and resolution of system problems
+ perform detailed root cause analysis  troubleshooting of problems reported by end users and lower level support teams and work with third party vendors for resolving production problems
+ coordinate activities and maintain extensive communication with appropriate it staff user system administrators department managers unfcu staff project teams and third party vendors
+ maintain test and staging environments regularly to perform and facilitate incident and problem analysis
+ bachelors degree in computer science related engineering field or management information systems and  years of technical applications administration experience
+ proven track record of major system implementations and support and an understanding of application development methodology
+ experience related to supportingadministering banking and financial services applications related to digital banking core retail banking creditdebit card related systems and call center systems preferred but not required
+ proficiency in task automation and scripting language particularly windows powershell
+ proficiency in setting up ssl certificates for iis web servers on windows servers and apache tomcat webserver environment
+ knowledge of advanced querying sql andor oracle databases using tools like sql server management studio or sql developer
+ general understanding of web application vulnerabilities like sql injection cross site scripting etc and some familiarity with web application vulnerabilities remediation
+ knowledge of system architecture concepts and some experience creating deployment topologytechnical diagrams
+ strong analytical abilityproblem solving skills
+ may require work on weekends or other extended hours
+ critical system outages and system upgrades may require  coverage on short notice

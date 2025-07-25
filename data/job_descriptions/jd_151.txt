@@ -1,0 +1,32 @@
+the governance risk  compliance grc program manager would be part of a team that focuses on reducing the overall risk in the ee environment
+ this person should be able to understand and implement multifaceted risk frameworks assisting our business partners with making balanced decisions between risk exposure growth and innovation
+ this person should also be able to devise mechanisms to proactively identify mitigate and monitor risks by working with many crossfunctional teams within enterprise engineering and at facebook
+ continuously identify  assess risks to ees critical processes and assets through various technical and nontechnical channels ie security vulnerabilities auditsassessments and operational incidents
+ mature and automate repeatable processes to inventory prioritize manage remediate and monitor risks within the enterprise engineering environment
+ manage a highly matrixed and fastmoving environment including developing and socializing operating models to optimize risk and compliance engagement within ee and across fb enterprise
+ serve as an interpreter and liaison between ee and enterprise sme teams helping ee efficiently and comprehensively navigate the complexities of risk and compliance
+ manage the data technology and automation platforms that drive key risk and performance reporting and insights
+ demonstrate a strong understanding of risk management by navigating challenging conversations with leadership teams and driving riskbased decision making and accountability for those decisions
+ develop quantitative risk and threat models to drive risk reporting and business prioritization
+ stay abreast of latest industry trends and events that impact the security or regulatory environment of ee
+  years working experience in information and physical security internal audit data privacy or other governance risk  compliance fields
+ experience moving technical or business driven projects from inception to delivery and experience articulating the impact using metrics growth examples return etc
+  years experience working within an it or technology organization with practical experience in implementing it risk frameworks controls and methodologies
+ experience in the areas of risks and controls across various it platforms web middleware cloud services iaas paas saas database operating systems infrastructure and social media
+ cissp cisa cism crisc cipp or similar industry certifications
+ deep knowledge of industry standard regulations and risk management frameworks and standards eg iso pci nist cobit gapp hipaa gdpr
+ experience with interpreting and implementing data privacy and protection regulatory requirements at scale
+ experience with managing grc products and implementations including developing relevant business technical and data requirements
+ experience creating and utilizing kpis and kris including dashboarding with data visualization tools
+ experience in complex matrixed environments and an experience navigating a constantly changing business
+ strong communication with and organizational skills and an experience distilling complex risk data into impactful messaging to nontechnical leadership teams
+ experience discerning business relevant risk associated with technology control deficiencies
+ program and project management experience with process and organizational change implementation
+ selfstarter experience working independently and as part of a team
+ experience working independently and as part of a team
+ strong analytical research and problem solving skills with a keen attention to detail
+ facebook is proud to be an equal opportunity and affirmative action employer
+ we do not discriminate based upon race religion color national origin sex including pregnancy childbirth or related medical conditions sexual orientation gender gender identity gender expression transgender status sexual stereotypes age status as a protected veteran status as an individual with a disability or other applicable legally protected characteristics
+ we also consider qualified applicants with criminal histories consistent with applicable federal state and local law
+ facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process
+ if you need any assistance or accommodations due to a disability please let us know at accommodationsextfbcom

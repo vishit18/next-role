@@ -1,0 +1,110 @@
+job number 
+
+cleveland ohio  cleveland ohio
+
+travel yes   of the time
+
+schedule fulltime
+
+posted 
+
+description
+
+here we believe theres not one path to success we believe in careers that grow with you whoever you are or wherever you come from in the world theres a place for you at sherwin williams we provide you with the opportunity to explore your curiosity and drive us forward well give you the space to share your strengths and we want you to show us what you can do you can innovate grow and discover in a place where you can thrive and let your colors show sherwinwilliams values the unique talents and abilities from all backgrounds and characteristics all qualified individuals are encouraged to apply including individuals with disabilities and protected veterans
+
+the sr devops engineer is responsible for configuration implementation and support of web solutions and headless commerce in a global containerized cloud environment including web servers hcl application servers search servers aem servers agent servers mq servers and other servers this role helps maintain current or near current levels of software patches features and configurations for the it systems using automation and infrastructureascode and other best practices this position focuses on cicd processes leveraging infrastructure and operations as code concepts the sr devops engineer provides documentation across the multiple environments and crosstrains team members on supported technologies
+
+essential functions
+
+strategy  planning
+ participate in creating quarterly work plan of activities in support of customervendor goals andor strategies provide input to creation of rolling maintenance plan of activities  months in advance
+ contribute to capacity and scalability planning efforts
+ develops and implements standards and guidelines to guide infrastructure strategy
+ plans and migrates legacy software and systems to leverage current web technologies
+
+acquisition  deployment
+ participate at the task level in the transition of support for new it solutions that have been implemented for customer by internal teams or other implementation partners
+ define and implement plans to upgrademigrate technology versions and to standard platforms
+ plan coordinate and implement security measures to safeguard information against accidental or unauthorized damage modification or disclosure
+ participate in applicationserverplatform lifecycle management
+ define and deploy servers and applications leveraging automation and source control
+
+operational management
+ participate in the design engineering configuration operation and maintenance of secure and scalable internetcloud hardware and software infrastructure that serves up web pages and web applications
+ automates installation and configuration standards of applications and software packages implemented
+ troubleshoot and resolve issues affecting the hardware and software infrastructure
+ perform automated controlled deployments of digital assets between development quality assurance and production environments
+ tune infrastructure web and application server performance
+ ability to plan and complete projects based on highlevel requirements with minimal or no guidance
+ mentor and coach junior engineers
+ work closely with lead engineers to understand and implement team standard platforms and technologies
+ perform activities in support of a  global support model for critical production environments
+ track daily work in project management software
+ define and implement monitoring of business transactions servers application website and infrastructure
+
+incidental functions
+ monitor servers applications and websites leveraging enterprise platform
+ plan and implement disaster recovery plans
+ evaluate product proof of concepts
+ assist with various projects as may be required to contribute to the efficiency and effectiveness of the work
+ participate in hiring activities and fulfilling affirmative action obligations and ensuring compliance with the equal employment opportunity policy
+ minimal travel is required
+ work outside the standard office  hour workday may be required
+
+position requirements
+
+formal education  certification
+ bachelors degree or foreign equivalent in related field or equivalent experience
+
+knowledge  experience
+  years it experience
+  years experience working with hcl commerce andor sterling order management
+  years experience with websphere application server or similar installation and performance tuning
+ excellent understanding of weblogic or websphere admin servernode managermanaged server components and architecture and concepts including pkitls ldapoud multiple domains
+  years experience with automation and deployment tools eg ruby puppet chef jenkins
+ strong knowledge of container deployment and analysis of log files
+ understanding of the key underlying enterprise java technologies eg jms jdbc jndi including how they are configured and administered
+ working knowledge of nginx or apachebased webserver
+ understanding of dns tcpip load balancing and network concepts
+ very good working knowledge of linux
+ good understanding of  technologies eg servlets jsps ejbs web services etc
+ familiar with infrastructureascode principles and development workflow to provide automation and repeatable processes for environment creation maintenance and enhancement
+
+preferred qualifications and skills
+ automation and deployment tools jenkins git
+ container management and deployment docker
+ configuration management tools puppet chef
+ cloud hosting experience
+ infrastructure as code cloudformation
+ application performance monitoring dynatrace or similar
+ ibm websphere commerce
+ good knowledge of ldap concepts and experience working with a ldap directory
+ adobe experience manager cms or similar
+ ibm mq experience
+ search platforms like solr
+ ibm sterling order management experience
+
+personal attributes
+ strong analytical conceptual and problemsolving abilities
+ strong written and oral communication skills
+ strong presentation and interpersonal skills
+ ability to conduct research into database issues standards and products
+ ability to present ideas in userfriendly language
+ able to prioritize and execute tasks in a highpressure environment
+ ability to work in a teamoriented collaborative environment
+ ability to understand automation and leverage it to do most work
+ strong commitment to inclusion and diversity
+
+the annual salary for this position is between  depending on the experience and other qualifications of the successful candidate
+
+a general description of the benefits can be found here
+
+this position is also eligible for longterm incentive compensation awards based on performance and subject to the terms of the companys applicable plans
+
+the salary other compensation and benefits information are accurate as of the date of this posting the company reserves the right to modify this information at any time with or without notice subject to applicable law
+
+must be legally authorized to work in country of employment without sponsorship for employment visa status now or in the future
+
+sherwinwilliams is proud to be an equal employment opportunityaffirmative action employer committed to an inclusive and diverse workplace all qualified candidates will receive consideration for employment and will not be discriminated against based on race color religion sex sexual orientation gender identity national origin protected veteran status disability age pregnancy genetic information creed marital status or any other consideration prohibited by law or by contract
+
+as a vevraa federal contractor sherwinwilliams requests state and local employment services delivery systems to provide priority referral of protected veterans

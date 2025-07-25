@@ -1,0 +1,33 @@
+mission capital advisors mca a subsidiary of marcus  millichap capital corporation mmcc is a leading loan sale advisor and due diligence provider mca is currently seeking a systems and network administrator the systems and network administrator will be responsible for administering the daytoday operation and administration of application servers and network infrastructure within the mca on premises and aws cloud networks the system administrator will use their experience and education to ensure consistent scalable and highquality it services to mca employees contractors and clients a successful candidate must be comfortable taking on responsibilities as required and continually looking for opportunities to improve the companys technology infrastructure
+
+principal duties and responsibilities
+ provide effective and timely responses to technology and application issues that arise in support of user requests
+ diagnose hardware and software problems and replace defective components
+ monitor the performance reliability and capacity of company application servers and execute appropriate changes as needed
+ perform common administration tasks on critical server network and peripheral equipment ensuring industry standard configurations and security models
+ create and maintain comprehensive documentation for it systems and processes
+ manage data backups and disaster recovery operations
+ manage it inventory purchasing and use
+ manage aws cloud environment to support mcas internalexternal needs
+
+skills and abilities required
+ candidate must have  years experience in the following
+ administering microsoft server operating systems and other microsoft server products such as sharepoint and sql server
+ administering a microsoft active directory environment and services ie dns dhcp etc
+ administering apple mac operating systems
+ network administration including network application configuration and network troubleshooting virtualization  vmware
+ document environment details deployment diagrams and network topologies
+ aws services aws instance creation configuration and maintenance
+ vpc setup and maintenance
+ aws security groups routing tables subnets ebs  iam roles and policies elastic load balancers cloud watch auto scaling groupsetc
+ aws task automation using aws tools sdks cloud formation scripts command line tools
+ aws usagecost estimationmonitor identifydevelop operational cost control mechanisms
+ aws certification
+ expert with aws ami and cloud formation templates
+ experience with other webbased application administration
+ network security best practices and implementation
+ experience configuring and maintaining ssl security
+
+mission capital is a leading national loan sale advisory due diligence and capital markets firm providing an integrated platform of secondary market loan portfolio brokerage valuation transaction management and datadocument curative services for the commercial and residential loan markets mission capital was acquired in  by marcus  millichap nysemmi a real estate and finance services firm with  investment sales and capital markets professionals located in more than  offices across the us and canada with a market cap of nearly  and  to  of closed transactions annually marcus  millichap adds deep capital markets expertise investment sales market intelligence and extensive research to mission capitals resources
+
+marcus  millichap provides equal employment opportunities to all employees and applicants for employment without discrimination with regard to race religious belief including dress or grooming practices color sex sex stereotype pregnancy childbirth or related medical conditions including breast feeding age national origin ancestry sexual orientation gender identification and expression transgender status physical or mental disability medical condition genetic characteristics genetic information family care marital status enrollment in any public assistance program status as military a veteran or qualified disabled veteran status as an unpaid intern or volunteer or any other classification protected by law we also prohibit discrimination based on the perception that anyone has any of those characteristics or is associated with a person who has or is perceived as having any of those characteristics in addition to federal law requirements marcus  millichap complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities this policy applies to all terms and conditions of employment including recruiting hiring placement promotion termination layoff recall transfer leaves of absence compensation and training

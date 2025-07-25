@@ -1,0 +1,59 @@
+where applicable confirmation that you meet customer requirements for facility access which may include proof of vaccination andor attestation and testing unless an accommodation has been approved
+
+secure our nation ignite your future
+
+due to the ongoing pandemic the health and safety of our employees and their families remains our highest priority our student employment opportunities may vary in starting onsiteinperson or remain in a virtual setting this will be dependent on the critical needs of the specific role each student is hired for the mantech excelerate program is honored to continue our worldclass early career programs for 
+
+job description
+
+become an integral part of a diverse team while working at an industry leading organization where our employees come first at mantech international corporation youll help protect our national security while working on innovative projects that offer opportunities for advancement
+
+currently mantech is seeking a motivated career and customeroriented software developer associate to join our team locations vary depending on business needs
+
+responsibilities include but are not limited to
+
+use your skills learned in and out of school on mantechs mission critical work mantech is seeking a motivated missionoriented software developer associate to join our mission at mantech you will work on innovative projects that offer great technical challenges
+ assisting the development leadsmanagers with all aspects of software design and coding
+ attending and contributing to company development meetings
+ learning the codebase and improving your coding skills
+ writing and maintaining code
+ working on minor bug fixes
+ build and deploy applications in cloud computing
+ monitoring the technical performance of internal systems
+ responding to requests from the development team
+ gathering information from consumers about program functionality
+ writing reports
+ conducting development tests
+
+basic qualifications
+ bachelors degree in computer science or related field
+ experience writing software in nodejs javajavascript r cc andor assembly language
+ basic programming experience
+ knowledge of relational and nosql databases
+ experience working and collaborating within an agile team using collaboration tools like slack office  google suite atlassian
+ knowledge or reverse engineer system components as necessary
+ basic understanding of cyber security and secure systems
+ experience with research tools techniques countermeasures and trends in computer network vulnerabilities data hiding and network security and encryption
+
+preferred qualifications
+ a passion for software development and engineering
+ strong grasp of operating system fundamentals including interrupts threading virtual memory device drivers and memory management techniques
+ knowledge and understanding of operating system internals and the integration of code with the operating system kernel
+ ability to learn new software and technologies quickly
+ detail oriented
+ ability to follow instructions and work in a team
+
+clearance requirements
+ individuals must be a us citizen and either hold an active us security clearance or must be eligible to obtain a us security clearance
+ applicants with the appropriate skills but without a security clearance are still encouraged to apply
+
+physical requirements
+ must be able to remain in a stationary position 
+
+for all positions requiring access to technologysoftware source code that is subject to export control laws employment with the company is contingent on either verifying usperson status or obtaining any necessary license the applicant will be required to answer certain questions for export control purposes and that information will be reviewed by compliance personnel to ensure compliance with federal law mantech may choose not to apply for a license for such individuals whose access to exportcontrolled technology or software source code may require authorization and may decline to proceed with an applicant on that basis alone
+
+mantech international corporation as well as its subsidiaries proactively fulfills its role as an equal opportunity employer we do not discriminate against any employee or applicant for employment because of race color sex religion age sexual orientation gender identity and expression national origin marital status physical or mental disability status as a disabled veteran recently separated veteran active duty wartime or campaign badge veteran armed forces services medal or any other characteristic protected by law
+
+if you require a reasonable accommodation to apply for a position with mantech through its online applicant system please contact mantechs corporate eeo department at   mantech is an affirmative actionequal opportunity employer  minorities females disabled and protected veterans are urged to apply mantechs utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunityaffirmative action policies mantech does not accept resumes from unsolicited recruiting firms we pay no fees for unsolicited services
+
+if you are a qualified individual with a disability or a disabled veteran you have the right to request an accommodation if you are unable or limited in your ability to use or access  as a result of your disability to request an accommodation please click careersmantechcom and provide your name and contact information

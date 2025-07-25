@@ -1,0 +1,50 @@
+overview
+
+the systems administrator works as part of the it team to administer the ils and partner systems sierra bibliotheca and pharos for bpl  under the supervision of the ils manager the systems administrator is responsible for system setup configuration and maintenance with third party service providers such as exela technologies unique management services patronpoint and collection hq ils tasks including holds processes maintenance lists for materials tracking of system statistics and overall system data integrity 
+
+responsibilities
+ manage backend configurations for the ils including users apis and  logins
+ provide organizational and custom reports andor data for tableau users
+ analyze web reports and log files for troubleshooting system issues
+ technical lead for third party vendors
+ assist with ils tasks including preparing and sending notices and paging lists holds procedures tacking of overrides and autonotices as needed
+ assist with preparation of maintenance lists on missing claims returned longintransit onthefly and in process status material as needed
+ perform item record suppressions unsuppresions and deletions as needed
+ generate view print export reports and statistics and maintain fields for statistics lyrcirc ytdcirc internal use
+ create and update circulation parameters and ils rules loan rules floating table etc
+ conduct uncollectible or amnestied outstanding fines and inactive patron record purges as needed
+ assist with maintaining the sierra database of item patron and checkin records
+ item records patron data create list cleanup holds and various other cleanups
+ create and analyze monthly report data
+ training of team members
+ create and maintain ils related procedures and codes such as item format statistical and location codes
+ provide data for branch inventories
+ stay abreast of software enhancements and solutions and make implementation recommendations
+ coordinate software upgrade and data migration testing before and after implementation
+ provide help desk  call center support phone email facetoface  respond to customer and staff inquiries
+ collaborate with team to maintain sierra permissions
+ maintain intra and inter departmental communication  coordination concerning other modules and services such as
+ encore webpac classic catalog mobile app capira facets custom notices network operations data flow
+ financial reports customer credit  cash refunds payment tracking record purges finance
+ procedures  staff training customer experiencecirculation management
+ selections acquisitions cataloging serials collections management technical services sorting distribution book ops
+ branch  division closures and openings neighborhood services  central administration
+ interlibrary loan
+ collection hq
+ participate on committees and working groups
+ attend professional conferences training programs and webinars as time and budget allows
+ maintain presence in professional forums such as innovative users group iug and idea lab an iug innovative interfaces joint project for software enhancement recommendations
+
+qualifications
+ hs diploma required ba degree preferred
+ minimum of  years experience working with integrated library systems
+ excellent interpersonal organizational and problem solving skills
+ strong technical skills including advanced knowledge of sierra and proficiency with postgre sql andor ms sql
+ working knowledge of tableau
+ strong oral and written communication skills
+ commitment to quality
+ demonstrated delegation and teamworking skills
+ professionalism ethical conduct and sense of ownership
+ ability to work under the pressure of time constraints and deadlines
+ prior public service experience in a large public library system preferred
+ ability to work onsite at a bpl location

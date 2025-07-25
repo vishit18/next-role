@@ -1,0 +1,43 @@
+job description
+job id
+
+job overview
+
+the software engineer i position will be working in a fun challenging fastpaced environment using scrum methodologies to drive and deliver solutions on windstreams vast network technologies and be a driving force in our network management system team
+
+this is an opportunity to use their knowledge of programming languages to design software programs their duties include coding and testing software to ensure functionality and updating software programs to refine components like cybersecurity measures and data storage capacities
+
+this position demands a selfstarter who is comfortable engaging architects it sponsors business partners and peer developers to achieve goals working across functional groups within the expanse of windstream environments
+
+job responsibilities
+ analyzes requirements to meet demand and performance of products systems andor data
+ may perform engineering design evaluations including costeffective utilization of materials as required may design develop test and implement all components equipment and software within the functional area of the organization
+ applies commonly used concepts practices and procedures to resolve a variety of issues
+ works on problems of moderate scope
+ exercises judgement to plan and accomplish goals
+ identifies issues and provides resolution within the workgroup or to the customer
+ normally receives general instruction on routine work and detailed instruction on new projects or assignments
+
+qualifications  external
+
+minimum requirements
+ good understanding of telecommunications industry
+ good knowledge networking disciplines and vendor equipment
+ computer software knowledge to include microsoft office custom planning tools databases and general itsm and cybersecurity practices
+ proficiency in popular coding languages including python java and c and systems such as azure pipeline and git excellent knowledge of the software development life cycle
+ strong problemsolving and communication skills oral and written
+ knowledge of objectrelational mapping frameworks
+ good analytical skills
+ the ability to prioritize projects
+ good interpersonal skills
+ ability to stay current with the economic and technological developments in the industry
+ excellent organization and time management skills
+
+education and experience
+
+college degree in a technical or a related software development field and  years professional level experience or  years professional level related software development experience or an equivalent combination of education and professional level related software development experience required
+
+job requirements
+minimum quali  degree in a technical or a related field and  years professional level experience or  years professional level related technical experience or an equivalent combination of education and professional level related technical experience required
+
+eeo statement windstream is an equal opportunity employer at windstream we celebrate the authenticity and uniqueness of our people and their ideas all qualified applicants will receive consideration for employment without regard to race color religion sex age national origin genetic information protected veteran status current military status disability sexual orientation gender identity marital status creed citizenship status or any other status protected by law and to give full consideration to qualified disabled individuals and protected veterans the diverse voices of our employees fuel our innovation and our inclusive culture employment at windstream is subject to post offer preemployment drug testing

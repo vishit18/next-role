@@ -1,0 +1,37 @@
+want to work with a world class team that is committed to changing the face of the entertainment industry join us in building an environment where creatives of all backgrounds can thrive and bring unique and compelling stories to market
+ 
+
+brass lion entertainment is seeking an animation programmer to join a talented and diverse team currently working on a new  unannounced a ction  rpg title 
+
+the right candidate for this position will work closely with our animators designers and gameplay programmers to develop an outstanding game experience by collaborating on implementation of features such as melee combat and other player and enemies mechanics you will be the bridge between animation content creators and developers working in unreal engine you will guide the team on technical decisions for our game specific requirements for anime style animations h ave a passion for gameplay and animation this role is for you
+
+brass lion entertainment has employees based in new york city montréal and remote locations across canada and the united states
+
+responsibilities
+ develop animation logic for gameplay and combat features in unreal engine
+ own the animation state graph in unreal engine
+ support technical animator with tools to optimize dcc to unreal workflows
+ architect and write core animation code specific to our games anime style
+ work with our animation and gameplay teams to maintain stability and performance
+ participate in defining our game design
+
+qualifications
+  or more years of video game programming experience
+ strong modern c skills
+ gameplay or animation programming experience
+ good understanding of game design
+ located and authorized for work in the us or canada
+
+bonus points
+ experience with unreal engine
+ experience working on an animation state machine
+ bachelors degree in computer science or equivalent
+ at least one shipped aaa game
+
+benefits
+ competitive salary
+ pto unlimited sick days and healthy work life balance
+ comprehensive health coverage
+ flexible workfromhome options
+
+hiring update brass lion is currently in a workfromhome model and well be developing a remotecolocated team structure for all team members within the united states and canada we understand each persons circumstances may be unique and will work with you to explore all possible options

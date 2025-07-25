@@ -1,0 +1,55 @@
+job details
+
+job description
+
+intels flex engineering team is an internal software engineering consulting team that works with product groups across intel
+
+as a software engineer on the flex team you get the opportunity to work on multiple different projects across intel ranging from autonomous driving virtual reality  artificial intelligence cloud iot and memory we will work to flex you to projects that align to your skills and interests
+
+we are looking for software engineer that has a solid cc programming data structures andor algorithms experience these core skills we require will allow our software engineers on the flex team to work on a variety of different projects across the company and be successful
+
+the focus of this role is on systemlevel software development in areas such as linuxwindows os kernel firmware librarymiddleware optimization graphics or memory area simulationvalidationo driver imagingmedia aimachine learning and computer vision among others
+
+qualifications
+
+you must possess the below minimum qualifications to be initially considered for this position preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates
+
+experience listed below could be obtained through a combination of schoolwork classes research or any relevant previous job or internship experiences
+
+please include any operating systems c computer architecture data structures data structures and algorithms embedded systems driver development kernel debugging or parallel programming coursework school projects github andor internships related experience on resume
+
+this position is not eligible for an intel immigration sponsorship
+
+minimum qualifications
+ a completed bachelors or masters degree
+ degree must be in computer science computer engineering electrical engineering or related technical discipline
+ experience in cc programming data structures andor algorithms
+ experience project or coursework in operating systems memory or resource management
+
+preferred qualifications
+ embedded systems microcontrollers cpu architecture
+ version control and continuous integration tools
+ system software engineering
+ linux kernel device drivers rtos open source embedded software development
+ lowlevel virtual platforms for hwsw simulation
+ other programming languages such as python java bash assembly
+ software containerization experience docker kubernetes etc
+ machine learning frameworks
+ parallel graphics compute development
+ fpga verilog opencl or rtl design
+
+systemlevelprogramming kernel parallelprogramming cpu osengineer entrylevel newgrad
+
+job type
+
+shiftshift  united states of america
+
+primary location us oregon hillsboro
+
+additional locationsus arizona phoenix us california folsom us california santa clara
+
+intel strongly encourages employees to be vaccinated against covid intel aligns to federal state and local laws and as a contractor to the us government is subject to government mandates that may be issued intel policies for covid including guidance about testing and vaccination are subject to change over time
+
+business group
+
+posting statementall qualified applicants will receive consideration for employment without regard to race color religion religious creed sex national origin ancestry age physical or mental disability medical condition genetic information military and veteran status marital status pregnancy gender gender expression gender identity sexual orientation or any other characteristic protected by local law regulation or ordinanceposition of trustna

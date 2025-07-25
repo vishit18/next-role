@@ -1,0 +1,62 @@
+sr sap basis administrator
+
+provide administration and technical support for all of j crews sap systems this job covers all aspects of sap basis administration including system installations and upgrades problem analysis and resolution database management client copies system refreshes sap instance configuration and performance tuning for a complex system landscape
+
+duties and responsibilities
+ working at a technical level with an understanding of sap its underlying database operating system and hardware platform
+ interact with development teams configuration teams various technical support teams and business stakeholders to optimize and maintain the overall sap reliability availability and performance
+ the position has a  oncall commitment and availability for evening and weekend working is required
+ provide installation configuration integration upgrade and testing services for new projects and ongoing maintenance for sap environments in a vm environment
+ analyze diagnose and resolve computing problems involving system hardware third party software and operating system software
+ provide performance tuning problem analysis upgrades and system administration for oracle hana databases and sap instances specifically ecc  bw  and pi 
+ extensive knowledge in administration of sap bi sap enterprise portal sap pi and solution manager
+ knowledge in performing client copies system refreshes and sap troubleshooting
+ experienced in sap correction and transport system and sap security management
+ knowledge of single signon sso solutions to portal and backend abap and bi systems
+ evaluation and design of interfaces between sap r and external systems
+ coordinate and schedule sap golive sessions
+ review and implement the recommendations of sap earlywatch sessions
+ experience in administration maintenance and upgrade of business objects bobj
+ knowledge on sap data archiving for bi and enterprise via opentext ixos solution
+ provide support in unix administration including space management monitoring performance tuning and security
+ maintain standard operating procedures and documentation
+
+technical skills
+ good working knowledge of veritas ha clustering for saporacle
+ ability to write unix korn shell and perl scripting to automate support for sap oracle and unix
+ must be familiar with portal transport using file based approach and cts approach
+ extensive working knowledge of nwdi architecture and functionality is required
+ familiarity with single signon and ldap security integration
+ good operational understanding of a large scale organization
+ ability to provide  oncall support after hour and weekend work as needed
+ sap certification is a plus
+
+interpersonal and communication skills
+ strong interpersonal skills and ability to work under tight deadlines with limited supervision
+ ability to effectively communicate both oral and written to the it team and business partners
+ ability to provide end user support and identify issues as they arise
+ establish and maintain good working relationships with the peers management  leaders of the business area supported as well as within it structure
+ assume accountability and take ownership for all projects that you are responsible and involved in
+
+education  experience
+ bachelors degree mandatory prefer computer science or related field
+ minimum  years of sap basis administration experience
+  years of oracle database administration and performance tuning experience
+ strong unixlinux system administration experience
+ sap basis experience with components mentioned below
+ web application server
+ enterprise portal
+ business information warehouse
+ internet transaction server
+ singlesign on
+ solution manager
+ pi process integration
+ web dispatcher
+ trex
+ nwdi
+ network and system administration experience including installation and maintenance of operating system network system hardware storage and automated monitoring
+ must have experience with java system administration
+ prior experience with bi accelerator is a plus
+ familiarity with sap versa is a plus
+
+we are committed to affirmatively providing equal opportunity to all associates and qualified applicants without regard to race color ancestry national origin religion sex marital status age sexual orientation gender identity or expression legally protected physical or mental disability or any other basis protected under applicable law

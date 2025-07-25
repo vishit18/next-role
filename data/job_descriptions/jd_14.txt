@@ -1,0 +1,10 @@
+design develop and test high quality software features by understanding user needs and implementing well designed code
+ follow and implement the code with standards and best practices
+ good communication sense of urgency  a good team player
+
+skills  experience
+ a bachelors degree in computer science engineering information technology or equivalent experience
+  years professional software development experience with php on wordpress in an enterprise environment
+ development experience in wordpress wp plugins php htmlcss  java script
+ mysql linux git
+ strong analytical and debugging skills testing and familiarity with common debugging tools

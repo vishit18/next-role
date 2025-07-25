@@ -1,0 +1,90 @@
+about us innovating to solve realworld problems
+
+applied insight enhances the ability of federal government customers to preserve national security deliver justice and serve the public with advanced technologies and quality analysis we work closely with agencies and industry to overcome technical and cultural hurdles to innovation empowering them with the latest endtoend cloud infrastructure big data and cyber capabilities our expertise in crossdomain and boundary solutions network analytics devops and lowtohigh development is unique in our industry we develop and deliver innovative products and applications that are deployed in highly sensitive customer environments and have broad applications for federal missions
+
+on joining the applied insight team youll be working to solve realworld problems on missions that matter with people who share your passions and encourage your ambition its vital to us that we hire committed people who are great at what they do we return that commitment by empowering them with the autonomy the support and the tools they need to fulfill their true potential
+
+your mission leverage your application development expertise and gain exposure into all aspects of cloud serverless development and beyond
+
+enhance your current software development skillset by developing backend and frontend components of a cloudnative saaspaas system backed by aws services and resources you will be an integral part of a team of knowledgeable technologists responsible for helping to build the worlds only fullscale cloud emulation platform shift this is a multifaceted position requiring you to spend time working with both frontend and backend web development frameworks aws and azure services kubernetes terraform and backend resources to efficiently build new functionality and continuously improve user experience working on the shift team provides a great opportunity to leverage existing skillsets while developing new ones
+
+a day in the life just a few of the things you may do on any given day
+
+frontend
+
+expand upon existing components or develop new components for a web ui to include
+ resource management
+ analytics
+ data visualization
+ realtime notifications
+ dashboards
+ other items added to roadmap
+
+expand automated testing suite in support of cicd activities
+
+backend
+
+expand upon existing components or develop new components to support additional functionality to include
+ restful apis to support frontend calls
+ restful apis to support apidriven services for systemtosystem usage
+ eventdriven microservices to execute automated functionalities
+
+develop new features in support of the emulation platform
+
+improve upon nosql database structure to improve efficiency of mongodb
+
+perform incremental testing actions on code processes and deployments to identify ways to streamline execution and minimize errors encountered
+
+cloud infrastructure
+
+expand upon existing components or develop new components of a terraform based cloud infrastructure running workloads using kubernetes
+
+you will excel in this role if you are
+
+embracing emerging technology you leverage aws azure and their accompanying services to help facilitate software development efforts
+
+wellrounded you bring indepth experience across multiple technologies including modern development tools languages frameworks developmenttestqa tools cloud computing container development microservices and automation
+
+agile able to work as part of small team working together to develop solutions for both commercial and government customers
+
+motivated you want to continually learn new things and work with new technologies
+
+flexible you are able to work remotely and be part of a virtual team that primarily communicates via collaboration technologies
+
+focused on automation wherever possible you look for ways to automate manual processes to increase efficiency speed and operability of tasks
+
+what we are expecting from you ie the qualifications you should have
+
+proficient in performing software development software engineering or software automation
+
+experience with at least two of the following languagesframeworksplatforms java spring python django angular react kubernetes terraform
+
+experience with agile software development
+
+ability to work remotely as part of a virtual team
+
+nice to have
+ experience with amazon web services microsoft azure and oracle cloud infrastructure cloud computing platforms
+ experience with classified airgapped or highside aws regions
+ experience with container development methodologies orchestration and networking such as docker kubernetes istio etc
+ deep knowledge and understanding of aws and azure sdks and how they work
+ experience with cicd development tools such as git jira gitlab jenkins etc
+ excellent oral and written communication skills with a keen sense of customer service
+ excellent problemsolving and troubleshooting skills
+ processoriented with great documentation skills
+ bs in computer science it is or equivalent area of technical study an additional  years of it experience can substitute for a bs degree
+what we will provide in return excellent compensation and amazing benefits
+ multiple health insurance options which include a ppo plan with zero deductibles and an hsa plan
+  immediate vesting company matches  of the first  contributed and  of the next  contributed
+ fully paid longterm disability shortterm disability and life insurance
+ flexible spending account options
+ generous paid time off that includes one bucket of leave to use how the employee sees fit no separate holiday sick or vacation
+ flexible work schedules with the ability to bank extra hours for additional time off
+ government shutdown protection where employees dont have to use leave for up to  days out of the year for inclement weather or budget issues
+ employee centric culture and a belief that we should empower those who are good at what they do and then give them the tools they need to achieve success and grow their career
+ a commitment to learning and growth and easy ways to achieve both including a training budget education assistance mentorship programs and collaborative learning sessions
+ a collaborative environment that fosters communication and an open door policy
+
+ eeoaa including vets and disabled
+
+covid policy prospective and successful candidates will be required to adhere with applied insights covid policy all applied insight employees must be fully vaccinated or submit to regular testing as defined in the policy and must self certify to their vaccination status on their first day of employment

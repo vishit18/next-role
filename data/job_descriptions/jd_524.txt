@@ -1,0 +1,41 @@
+job description
+essential functions
+contribute to requirements analysis design code and unit test integration and test requirements sell off and operations and maintenance of embedded software systems
+ensure that productsprojects delivered meet customer requirements and specifications
+drive process improvements to aid in team coordination and maintain delivery schedule
+communicate with leadership on status issues milestones and successes
+qualifications
+bachelors degree in computer science electrical engineering or similar filed and  years experience or  years experience with a masters degree
+prior experience with embedded software engineering with c and real time operating systems experience
+preferred additional skills
+active secret clearance
+electronic warfare background
+capable of working on both high and low level software
+vxworks or similar embedded os experience
+uml design experience
+skills and certifications 
+c
+rtos
+secret security clearance
+vxworks
+security clearance required yes
+visa candidate considered no
+candidate details
+ to  years experience
+seniority level  associate
+management experience required  no
+minimum education  bachelors degree
+willingness to travel  never
+screening questions
+do you have at least  years of software development experience
+do you have experience with c
+do you have an active secret clearance or higher
+do you have a bachelors degree in computer science or engineering
+ideal candidate
+software engineer with a secret clearance and  or more years of experience with embedded software development with a defense contractor
+candidate must have verification
+
+do you have at least  years of software development experience
+do you have experience with c
+do you have a bachelors degree in computer science or engineering
+do you have an active secret clearance or higher

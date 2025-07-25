@@ -1,0 +1,78 @@
+inoffice locations santa monica ca usa and philadelphia pa usa
+
+remote locations united states
+
+as a certified b corp our mission is truly woven into the fabric of what we do as you grow professionally you are doing good for the planet by helping us to transform the way consumers access clean energy and accelerate the worlds transition to a netzero carbon future
+
+our rapidly growing engineering team of missiondriven climate enthusiasts is passionate innovative and committed to a better future for the planet we are looking for a software engineer to help us work in our core systems if your focus is on the backend youll be integrating with third party apis writing background processes and creating json apis for our internal and externallyfacing applications if your focus is on the frontend youll build modern interfaces in both internal and consumerfacing applications you will join a dynamic team and contribute alongside them working in a collaborative and supportive environment
+
+youll rely on your experience to make our technology platform better furthering our mission of impacting the world positively through renewable energy if you have a passion towards technology and interest in solving tough problems and care about our mission of spreading renewables across the country lets talk
+
+how youll help
+ be an integral contributor within a productdesignengineering squad write code write tests ship code to production multiple times per week
+ own your features from inception to completion participate in grooming sessions codereviews qa and postdeploy monitoring
+ write and maintain comprehensive documentation of solutions
+ advocate for bestpractices within the team and mentor more junior engineers through pairprogramming code reviews and coaching
+
+some  year deliverables
+ project work
+ take on modifying existing functionality or integration taking on an important feature modification
+ understand the problem the requirements scope it out and work with your team to deliver it
+ learning our tech stack
+ contribute to multiple systems making incremental improvements as you go
+
+heres what youll bring to the table
+ must have
+ experience that provides a foundational knowledge in software engineering concepts with a focus on web technologies typical applicants have some experience developing professionally if you are excited about the position and feel youre a fit please feel free to apply we welcome applications from candidates with either a traditional or nontraditional education
+ some examples of topics youd feel comfortable speaking about
+ how you structure your code
+ when youve built or consumed apis
+ what techniques youve used to test your code
+ you should have experience with modern web applications our tech stack includes a monolith serving a json api backed by postgresql and a react frontend
+ desire to continually learn this could take many shapes but some examples include
+ asking for feedback on pull requests
+ pair programming with your peers and other more senior engineers
+ researching and understanding new trends and technology in web application development
+ experience or interest in the languages and frameworks or equivalents in our tech stack if you dont have experience in all of them thats ok
+ backend rubyrails sinatrapadrino rspec
+ database postgresql we use activerecord and ruby sequel for orms
+ frontend react nextjs cypress
+ git and github
+ experience deploying to heroku aws or similar
+ nice to have
+ experience in a missiondriven team or renewable energy
+
+our work model
+
+this position is eligible for remote work being bicoastal we have mastered the art of working collaboratively across different time zones and regions working from the comforts of our own homes we dont mind the constant cameos from children and pets
+
+heres what we offer
+
+health  wellness
+ medicaldentalvision coverage starts from day one
+ summer fridays and wellness days
+ mental health benefits headspace ginger
+ company paid parental leave
+
+life at inspire
+ flexible time off
+ k up to  matching
+ employee resource groups
+ treks through givepower and the opportunity to participate in service trip
+ training development and growth opportunities for all employees
+
+perks
+ work from home
+ semi annual performance bonuses
+ b corporation discounts
+ open office floor plan
+ dogfriendly workplace
+ fun company events
+
+more about who we are
+
+inspire is a clean energy technology company on a mission to transform the way consumers access clean energy and to accelerate the worlds transition to a netzero carbon future
+
+we provide our customers with access to renewable energy from wind solar and hydro powered sources without service interruptions or costly installations at a flat predictable monthly rate on average one year of being an inspire member can help avoid  pounds of carbon emissions  that is  more impactful than one year of recycling
+
+liremote

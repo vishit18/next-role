@@ -1,0 +1,37 @@
+overview
+
+the data analyst  emr is responsible for the ongoing assessment design development and implementation of rising grounds data capture and reporting processes in netsmart this position under varying levels of direction will also manage any issues that arise this position will provide end user guidance application build and test troubleshoot system issues track system traffic and activity and perform other related duties
+
+responsibilities
+
+responsibilities
+ uses ticketing software to manage issues related to emr
+ reviews problems analyzes issues and develops potential solutions
+ acts as a liaison to staff leadership and netsmart to ensure that issues brought up during training implementation and post golive are researched and resolved in a timely fashion
+ documents all problems solutions and outcomes for future reference
+ data management
+ plan organize facilitate and lead meetings and workgroups
+ prepares user defined custom reports
+ create business functional and technical requirements documents based on captured data and in accordance with departmental protocolstandards
+ data capture and reporting that support the billing process
+ convert information gathered into details including data sources data and user types
+ applies technical expertise in filescreen building report writing and maintaining master files profiles and forms
+ system management
+ serves as a liaison with user departments in design implementation and modification of applications
+ configure and test myevolv features to drive adoption of existing functionality monitor system updates to ensure quality assurance standards have been met
+ participates in troubleshooting application problems
+ work directly with end users to evaluate user requestsneeds and implement necessaryappropriate changes
+ coordinate end users training with the training department
+
+qualifications
+
+qualifications
+  or more years of experience with emrehr applications experience with myevolv preferred
+ bachelors degree in computer science information technology informatics or business masters degree preferred
+ ability to work under stress with timecritical deadlines and high expectations
+ knowledge with microsoft remote desktop services terminal services is preferred
+ knowledge with remote vpn and firewall technology cisco sonicwall fortinet etc security and backup  dr management datto quest rapid recovery veeam veritas backupexec networking and iscsi  san technology is preferred
+ if hired staff is required to
+ attendcomplete assigned information security training by the designated completion date
+ read and adhere to published isms policies and procedures
+ report timely any observed violations of isms policy  or known encroachments on information security  to your department leader andor the information technology department

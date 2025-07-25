@@ -1,0 +1,107 @@
+description hughes private capital in business since  and one of the fastest growing companies in northern nevada is on a yearoveryear growth trajectory that requires increased staffing in all departments to keep pace with this growth and theres no letup in sight we are proud of our roots in the real estate investment industry we provide sound healthy and stable returns to our investors through the acquisition rehab and longterm hold of rental homes
+job summary
+
+the software engineer is a critical role within the software engineering team that participates in the development of new technical systems enhances the existing application fixes bugs performs rd and is involved in communicating and coordinating with senior and junior engineers qa team members and other members of the software engineering team this individual may conduct code reviews as needed must act as an individual contributor within regularly scheduled sprint cycles and is expected to participate in software rollouts for the organization that are feature rich and high in quality software engineers will be expected to drive forward and produce results while fostering a culture of servant leadership expected from all within the technology department
+ your responsibilities will include 
+ participating in rd initiatives for the department assisting with solution recommendations course of action and contingency plans as required
+ assist and collaborate with junior and senior engineers as needed
+ developing highly functional software that is error free and efficient across businesscritical systems
+ assess the existing sdlc and provide recommendations changes to procedure or process that will improve throughput and effectiveness of our development teams
+ collaborate with other engineers on sprint progress and impediments to release timelines
+ identify inefficiencies problem areas or opportunities for technical investment that will improve operational processes or procedures both inside and outside the engineering team
+ ensure software is up to date and free of vulnerabilities
+ troubleshoot or debug business critical systems to optimize performance
+ manage and improve cicd pipelines
+
+additional responsibilities and duties
+ practice and adhere to hughes private capital values and service standards
+ conduct business with the highest standards of personal professional and ethical conduct
+ perform and assist with duties as required to maintain workflow and meet deadlines
+ notify management of obstacles equipment or operating problems requiring the need for additional support andor supplies
+ participate in meetings and workgroups to acquire and maintain necessary levels of knowledge relating to business developments industry requirements policies and regulatory guidelines collaborate on projects and communicate issues
+ ensure all safety precautions are followed while performing the work
+ follow company standard operating procedures sops and policies
+ perform tasks special projects and other duties as assigned with the ability to recognize and correct oversights or inaccuracies
+
+ requirements
+ what we seek in this candidate 
+ critical thinking and strong attention to details
+ strong written and verbal communication skills
+ strong understanding of objectoriented programming
+  years of software engineering experience
+  years of full stack web development experience
+  years of experience with html css javascript and or its frameworks
+ advanced knowledge and implementational skills with mvc architecture
+ experience building applications with design patterns and frameworks  struts spring spring boot and microservices
+ experience working in an agile environment scrum
+ experience with software engineering best practices for the sdlc code standards reviews vcs testing etc
+ strong competency with relational databases  schema design normalization writing complex queries and optimization
+ familiarity with cicd pipelines and processes
+ strong proficiency with system design and architecture application and database
+ experience with building and consuming rest or soap web services with and without using frameworks
+ experience implementing data structures and algorithms  linked list graphs trees tries etc
+ solid understanding of linux or windows os with scripting skills in bash power shell python
+ experience with best security practices while implementing apis sso and in general
+
+preferred
+ experience with aws products
+ experience with salesforce development apex and the salesforce cli
+ experience with the atlassian product suite confluence jira bitbucket
+ experience with docker
+ advanced java proficiency
+ experience with any nosql database
+ bachelors degree or above in computer science information systems or related field of study
+
+physical requirements
+the physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job this job operates in a professional office environment remaining in a stationary position often sitting for prolonged periods communicating with others to exchange information
+ you will work with 
+  high energy team members ready to assist with any project
+ an experienced toplevel leadership team
+ the director of technology and a growing software devit team
+
+about our culture and our core values
+ this is a fastpaced environment largely due to our continuing growth weve grown exponentially and new team members continue to join our hpc family
+ respect for others and ourselves we are a team that trusts each other and communicates effectively our leadership is committed to helping team members grow both personally and professionally
+ innovation and creativity and an entrepreneurial spirit these are a few of our guiding principles that our owners and workers alike believe in and that drive us
+ a culture focused on developing and investing in team members  coaching training and supporting each other while remembering to have fun creating enjoyment at work and maintaining a healthy worklife balance
+ we are always learning and continually striving to create a positive impact
+
+do the job description and responsibilities read like the next step in your career or perhaps youre feeling stagnant in your current role and feeling the urge to jump to a dynamic and rapidly growing organization if so we just might be the perfect opportunity for you if your experience skills drive and of course your interest seem perfect for this position wed love to hear from you today
+compensation and benefits include
+ competitive salary
+ health benefits
+ paid vacation time
+ paid sick time
+ paid federal holidays
+ employee investment program
+
+we are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity or expression pregnancy age national origin disability status genetic information protected veteran status or any other characteristic protected by federal state or local laws
+this policy applies to all terms and conditions of employment including recruiting hiring placement promotion termination layoff recall transfer leaves of absence compensation and training
+job type fulltime
+pay from  per year
+
+job type fulltime
+
+pay  per year
+
+benefits
+ dental insurance
+ health insurance
+ referral program
+ vision insurance
+
+schedule
+  hour shift
+ monday to friday
+
+supplemental pay
+ bonus pay
+
+ability to commuterelocate
+ reno nv  reliably commute or planning to relocate before starting work required
+
+experience
+ full stack  years required
+ software engineering  years preferred
+
+work location one location

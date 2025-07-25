@@ -1,0 +1,82 @@
+who we are
+
+the vera institute of justice founded in  is a nonprofit criminal justice organization that strives to build just government institutions and safe communities free from the scourge of racism white supremacy profit and inequity that is pervasive in this countrys legal systems we are an inside lane organization that drives change at scale with ambitious public sector leaders who share our commitment to building antiracist reparative systems that deliver justice we leverage our access to government to transform these systems and work collaboratively with stakeholders across many movementsincluding advocacy grassroots and grasstop organizations our role is to pilot solutions that are transformative and achievable harness the power of evidence to drive effective policy and practice and use advocacy and communications to change narratives and norms
+
+vera has a staff of just over  people and offices in new york city washington dc los angeles and new orleans we are an equal opportunity employer with a commitment to diversity in the workplace we expect our staff to embody respect independence collaboration commitment antiracism and equityboth in our outwardfacing work and the internal culture of our workplace we value a range of experiences in peoples educational backgrounds and encourage people who have been directly impacted by the criminal justice system to apply
+
+who you are
+
+the system administrator is responsible for maintaining veras systems deploying and managing solutions for endpoint management improving and assisting in the implementation of new systems and services across the organization performs work related to planning implementation and delivery of technical infrastructure networking information security and assists with daytoday helpdesk requests and serves as an escalation point
+
+responsibilities include but are not limited to
+
+system administration
+ maintains essential infrastructure systems including os applications servers storage devices email systems laptops desktops software and hardware
+ manages backup solutions software and hardware configures back up jobs runs backup recovery jobs as needed
+ manages remote monitor and management solution for endpoints for deployment of software applications and updates
+ responsible for maintaining all os software and antivirus definitions up to date on all of veras workstationsserverssystems
+ responsible for the administration of cloudbased applications and integrations with veras identity provider solution
+
+information security
+ reviews system configurations and recommend security controls as needed
+ works with the security team in the implementation of new security measures and assist with auditing requests around access management
+ configures and manages sso integrations for all standardapproved vera saas applications
+
+cloud infrastructure
+ assists with the administration of cloud platforms gcp azure aws
+ maintains access and identity management for authenticated users
+ assists with cloud integrations with existing onpremise services
+
+virtualization
+ responsible for the maintenance and improvement of veras virtual environment and underlying hardware equipment
+ serves as escalation point for hardware and softwareos issues for virtual servers and hypervisor
+ responsible for system updates and recommend system hardware upgrade as needed
+
+documentation
+ creates and maintains thorough documentation and work with the network administrator to create process flows and physicallogical topology diagrams of the network
+ creates and maintains detailed sops for processes related to system admin duties
+
+what qualifications do you need
+
+required
+ bachelors degree   years of relevant experience in lieu of a bachelors degree applicable work or life experience may be considered experience in managingmaintaining systems meraki vmware aws azure nas san
+ proficient with microsoft office suite windows  administration experience windows server and networking web conferencing tools remote desktop tools helpdesk ticketing system proficient in active directory users and computer group policies and good communication skills verbal and written
+ experience in systems administration software deployment and networking concepts with hands on experience on firewall cisco meraki tcp ip protocols public dns settings and ssl certificate administration from public ca
+ cloud administration experience aws
+
+preferred
+ certifications network security cysa mcsa aws
+
+additional eligibility requirements
+ na
+
+list of required software applications
+ veeam vmware aws azure active directory ninja rmm windows and linux servers zoom slack lucidchart smartsheets
+
+compensation and benefits
+
+the compensation range for this position is    actual salaries will vary depending on factors including but not limited to experience and performance the salary range listed is just one component of vera institutes total compensation package for employees as an employer of choice in our field supporting vera staffboth personally and professionallyis a priority to do this we invest in the wellbeing of our staff through other rewards including merit pay generous paid time off a comprehensive health insurance plan student loan repayment benefits professional development training opportunities and up to  annual for education costs and fees relevant to vera work employerfunded retirement plan and flexible time and remote work schedules to learn more about veras benefits offerings 
+
+applications may also be faxed to
+
+attn people resources  systems administrator it
+
+vera institute of justice
+
+  st suite  brooklyn ny 
+
+fax  
+
+please use only one method online mail or fax of submission
+
+no phone calls please only applicants selected for interviews will be contacted
+
+as a federal contractor and in order to ensure a healthy and safe work environment vera institute of justice is requiring all employees to be fully vaccinated and provide proof of their covid vaccine before their start date employees who cannot receive the vaccine because of a disabilitymedical contraindication or sincerelyheld religious belief may request an accommodation eg an exemption to this requirement
+
+vera is an equal opportunityaffirmative action employer all qualified applicants will be considered for employment without unlawful discrimination based on race color creed national origin sex age disability marital status sexual orientation military status prior record of arrest or conviction citizenship status current employment status or caregiver status
+
+vera works to advance justice particularly racial justice in an increasingly multicultural country and globally connected world we value diverse experiences including with regard to educational background and justice system contact and depend on a diverse staff to carry out our mission
+
+for more information about vera please visit
+
+powered by jazzhr

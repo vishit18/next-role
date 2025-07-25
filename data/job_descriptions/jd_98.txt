@@ -1,0 +1,37 @@
+we are soci the largest localizedmarketing platform globally we are looking to add a full stack software engineer to our team and help innovate our expanding group of products you will have full ownership of a product together with your team we are a mob programming environment which means we collaborate in real time to create solutions together soci is on the forbes  list of americas best startup employers and we would love for you to be a part of our team
+
+international applicants welcome
+
+responsibilities
+
+ this position is fully remote and our teams are distributed across four continents youll be expected to have  hours of overlap with your team within the  am to  pm pst time zone but that can vary by team and location for instance some teams may start an hour or two earlier and some teams may start an hour or two later taking meaningful breaks is important for engineers to stay sharp and productive throughout the day
+ you will be collaborating with other engineers by doing mob programming in realtime over zoom as part of several sessions throughout the day
+ a product team consists of  mobs each mob consists of  engineers a tech lead an engineering manager em a ux designer and a product manager pm
+ as a member of an empowered product team you will be able to work with your assigned teams to research and understand customer problems as part of their jobs then work together to build product solutions that address them
+ we are an engineering company and we leverage technology to solve customer problems
+
+qualifications
+
+  years experience working on a software development team
+ strong familiarity with objectoriented programming all backgrounds are welcome such as java net c php
+ solid programming skills in javascript
+ deep understanding of relational database systems specifically mysql and postgres
+ understanding of nosql datastores such as elasticsearch mongodb is a plus
+ experience building scalable performant and modular solutions
+ understanding of modern cloud technologies such as aws and google cloud
+ experience with microservices and serviceoriented architecture
+ highlevel awareness of available ml technologies
+ knowledge of basic visual and user experience principles and forming partnerships with a ux designer you will be building the ui for our product
+
+why youll love it here
+
+ fully remote diverse international team
+ an extremely talented group of engineers and tech leads to learn from
+ active career coaching and professional development to keep you growing
+ learning budget books online courses
+ directly see the impact of your work by working closely with customers and help build the fastestgrowing martech platform for top brands
+
+whats socis culture like
+
+soci stands for selfless overachievers customer centric and innovative we strive to be in service to each other consider learning as job  we are lifelong learners and care to grow the company just as much as we care to grow each other we obsess over the customer problems such that we can deliver the most valuable solutions to them we hold each other accountable are candid in our feedback and expect you to do the same its okay to make mistakes its not okay to not learn from them we partner strongly across departments and function as we know itll take a village to succeed one team one dream
+apply now and work remotely at soci

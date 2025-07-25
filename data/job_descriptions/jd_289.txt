@@ -1,0 +1,12 @@
+design implement and manage websites using wordpress
+ collaborate with members of a creative team
+ manage frontend and backend website development
+ create wordpress plugins and themes
+ maintain welldocumented reusable and transferrable code
+ troubleshoot and resolve website problems for clients and coworkers
+ stay abreast of new developments in software trends and practices
+ proficiency using wordpress
+ expertise in   javascript and jquery
+ experience using debugging tools such as firebug and chrome inspector
+ strong understanding of frontend and backend website development
+ keen attention to detail

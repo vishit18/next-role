@@ -1,0 +1,25 @@
+transcend believes everyone should be in control of their personal information were pioneering data privacy infrastructurea powerful technology that lets individuals reclaim control of their data and ensures companies can easily comply with global data privacy laws
+
+our platform enables companies like robinhood patreon and indiegogo to provide customers with control over their information we allow these customers to request identify and delete their personal information from a growing suite of integrated companies from salesforce to slack facebook zendesk intercom and beyond
+
+as a software engineer at transcend you will help us build and maintain the core transcend application as well as contribute to new products and initiatives such as
+
+ data privacy infrastructure this is our breadandbutter we help companies process data requests from their customers by directly integrating with  party systems through a proxy application called sombra which encrypts the data endtoend youll work closely with this application and build integrationrelated features on top of it
+ expand the integrations catalog from hundreds to thousands we need to figure out how to build integrations faster and more reliably to this end youll help us optimize our deployment pipeline and devise better testing strategies
+ selfserve signup expiry and billing we want to make it super easy for customers to try buy and use our product
+ what youll do
+
+ collaborate and contribute to projects like selfserve signup and billing and improve the integrationsbuilding pipeline etc
+ work on building up our core ui components library and standardize usage across the code base
+ implement customerrequested features and integrations
+ proactively fix production and development issues
+ who you are
+
+ you have some experience in software development as well as some expertise with node javascript andor typescript new grads are welcome to apply if you have relevant internship experience at a fastpaced startupcompany working on web development if you feel that you need more mentorshipguidance we also have an apprenticeship program that you can apply to
+ youre a fast learner and youre not afraid to ask for help when stuck youre good at identifying your own assumptions and gaps and work to proactively address them you try to not ask the same questions twice
+ youre effective at tackling large somewhat openended problems were a small team and not every problem will have a fully speced out solution for you to implement specgathering writing design docs validating potential solutions with teammates and decomposing work are all part of the job
+ youre able to identify tradeoffs and take them into consideration when making decisions eg speediness vs tech debt vs cutting scope you can articulate which factors have higher priority depending on the context
+ you are effective at async and online methods of communication our team is mostly distributed some colocate in sf so the ability to clearly and thoughtfully communicate despite the space and time barriers is very important
+ bonus points
+
+ bonus points if youre already familiar with the tools we use terraform docker aws serverless ecs aurora etc react graphql

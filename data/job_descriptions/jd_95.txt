@@ -1,0 +1,32 @@
+were not looking for rockstars zombies or magicians were looking for motivated creative and resourceful developers who take pride in their work and want to partner with clients who are pushing the boundaries of the technology we work with
+
+software developers at alley work collaboratively to understand the challenges facing our clients and implement effective and meaningful technological solutions frequently using wordpress your responsibilities will range from technical discovery that informs custom feature builds to custom architecture and development to largescale data migrations for a high volume of content
+
+software developers at alley need to be wellrounded technologists who have a holistic understanding of the web technology stacks that we work with are excited about keeping our team at the cutting edge and are eager to work directly with clients to help them solve interesting and novel business problems
+
+alley is an equal opportunity employer and we seek to increase diversity in the tech industry we encourage applications from women black people indigenous people people of color lgbtqia people disabled people and other communities traditionally underrepresented in this field to learn more about how alley values diversity equity and inclusion read our dei pledge 
+
+for information on our hiring process and what its like to work at alley please check out our faq  if you have any questions about our hiring process please contact us at hiringalleyco
+
+qualifications
+ this is not an entrylevel position we expect candidates to have some professional experience writing software seasoned developers will flourish with our balance of independence and support while entrylevel developers would not get the direct oversight they need to succeed
+ our primary development language is php you must be fully fluent in php and have worked with it in a professional context before
+ prior experience with wordpress andor laravel is a major plus if you havent worked with either you should be excited to learn and develop with them
+ we make heavy use of es next javascript particularly react as well as node and related tooling including webpack previous experience is a plus and a willingness to learn it is essential
+ alley prides itself on its ability to address unusual novel and complex problems that deal with the intersection of technology business and content production you should understand and be able to discuss web technologies and systems conceptually and be able to demonstrate that you can learn a new language technology stack or framework quickly and on demand
+ you should feel comfortable at a unix command line even if you arent an expert
+ you must know your way around git and understand version control well and be able to carry out typical operations with it including branching merging submitting code for peer review and reviewing your peers code yourself
+ we apply scrum as a development methodology and broadly endorse agile as a philosophy you must be open to working this way as well and prior experience is a plus
+ you should also have very strong written and verbal communication skills and the ability to wield them with both team members and clients
+ discipline concerning delivery dates stylistic appreciation of what makes code good and readable and a committed attitude about documentation user stories issue tracking and timesheets are all very important skills for our developers to have
+
+benefits
+ competitive salaries we recognize several levels of career progression for developers and tie compensation to those levels corresponding to their seniority and experience we are currently searching for developer candidates to join us with base salaries starting at   and  if you consider yourself to be at a higher level we still encourage you to apply and can discuss additional opportunities with you
+ medical dental and vision benefits
+  with company matching
+ profit sharing
+ monthly lunch allowance
+ flexible schedules we do not limit vacation or sick time we trust our team members to get their work done and take the time off they need to recharge
+ remote first we are a fully distributed company meaning we dont have a set work location team members can choose to work from home or from a coworking space well furnish your home office or rent you a coworking space
+
+recruiters please do not contact us about this job all hiring duties at alley are carried out by our staff

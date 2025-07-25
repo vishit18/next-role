@@ -1,0 +1,52 @@
+this role is majority remote but candidates should be willing to commute to our nyc office on an asneeded basis
+
+as the largest luxury online marketplace we are changing the way consumers shop for luxury items online we are looking for a systems engineer to join our sysops team and help enable our engineers to deliver and maintain a worldclass ecommerce infrastructure in this role you will be responsible for ensuring the stability observability and performance of com as we deliver to our evergrowing audience
+
+to be successful in this role you will be an experienced systems engineer with a background in operating aws services in a fastmoving environment with a high level of independence and responsibility you will face unexpected challenges and work collaboratively with other engineers as we rapidly deploy new features using new technologies
+
+what youll do
+ participate in an oncall rotation to troubleshoot and respond to any offhours incidents
+ interface with other internal and external teams to roll out new features and new infrastructure components
+ design and implement scalable architectures
+ find potential enhancements and opportunities for cost savings
+ evaluate new technologies vendors and other initiatives
+ offer support to our development team as they deploy bug fixes and feature enhancements
+
+what youll bring
+ have  years of experience in systems engineeringadministration preferably in a web or ecommerce environment
+ have a strong background with configuration management containerization and aws cloud services
+ possess strong written and verbal communication skills and the desire to work in an open and collaborative environment
+ be prepared to work on multiple projects with different priorities and timelines
+
+required
+ unixlinux administration and management centosrhel preferred
+ configuation management background and understanding of best practices puppetchefansible
+ bashzshshell scripting
+ aws dynamords deployment and best practices
+ automation workflows and cicd pipelines
+ gitgithub best practices and workflows
+ containerization workflows for development and deployment dockerkubernetes or similar
+ mac os x familiarity for local tooling and day to day work
+
+at least one of
+ ruby
+ python
+
+nice to have experience with
+ nodejsnpmyarn administration
+ varnish or equivalent caching proxy
+ terraform andor other hashicorp systems
+ jira
+ jenkins
+
+about 
+
+ is the worlds largest online luxury marketplace for rare and desirable objects it has become the goto source for the worlds leading interior designers and consumers to find antiques furniture jewelry vintage fashion and fine art
+
+backed by benchmark capital insight venture partners index ventures spark capital and alibaba  is a unique blend of expert curators and seasoned internet executives from companies including ebay gilt google freshdirect mlbcom shutterfly and twitter
+
+ is an equal opportunity employer we celebrate diversity and we are committed to creating an inclusive environment for all employees
+
+ is actively hiring and in response to covid conducting all interviews and onboarding virtually any new or current team members will be temporarily working remotely until our offices reopen at which point all employees are expected and required to return physically to the new york office
+
+for additional information about location requirements please discuss with the hiring team following the submission of your application

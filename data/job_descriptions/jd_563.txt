@@ -1,0 +1,63 @@
+pmc systems administrator
+are you passionate about technology are you interested in working at one of the leading digital media companies in the world pmc is looking for a systems administrator to work within a broad skill set including but not limited to design implementation maintaining and optimizing information technology systems network infrastructure and related services
+
+this position is key for our new york office it infrastructurenetworking department this is a closelyknit team focusing on the design implementation and daytoday operations of systems network and infrastructure supporting all essential it functions for the company this is a lightly structured position so we are seeking someone with strong independent judgment and common sense to work within a person team distributed between new york and los angeles
+
+this position is inperson onsite based out of our midtown manhattan office in new york city
+
+as a team we keep over  end users operational every day the environment is always evolving and candidates will have the opportunity to learn and interact with innovative technologies a serviceoriented attitude effective communication and documentation skills and a relentless focus on results are essential
+
+day to day
+
+we are looking for a team player with a positive attitude wed love to hear from you if you are experienced in the following
+ administration of vmware and aws environments servers and storage telephony and ip network solutions
+ supporting microsoft windows server infrastructure  active directory dnsdhcp dfs office 
+ sdwan velocloud administration
+ analyze troubleshoot maintain and optimize wired and wireless networks cisco networking meraki switches wireless access points and mx security appliances
+ manage and maintain our onprem and cloud backup systems veeam
+ manage and maintain security systems access control cameras
+ software and firmware update management for server storage and network components nasuni cisco meraki vmware velocloud
+ facilitate new office buildout projects as they relate to it infrastructure systems and networking
+ coordinate with vendor resources to assess system security and apply appropriate infrastructure security protections
+ create and maintain knowledgebase documentation it glue as well as operations runbooks
+ perform daily service monitoring prtg verifying the integrity and availability of all services and their related components as well as key processes
+
+what you bring
+
+you dont need to check every box for the experience below if you are passionate about this opportunity we would love to hear from you
+ minimum of  years experience in systems administration network administration andor infrastructure administration
+ selfmotivated capable of working with limited supervision proactively reporting on status and tasks
+ strong interpersonal verbal and written communication skills
+ attention to the details strong follow through and meticulous documentation skills
+ ability to identify inefficiencies and provide solutions to improve our security systems and processes
+ understanding of user server network storage administration in an enterprise environment
+ experience with cloud environments specifically aws platform capabilities including good understanding of the aws wellarchitected framework
+ ability to operate in a rapidly changing environment with urgency ownership and accountability
+ ability to accurately prioritize work items make sound judgments work to improve the customer experience and get the right things done
+
+experience in the following technlogies is a plus
+ okta
+ connectwise automate
+ nasuni file storage
+ prtg
+ ad manager ad audit  manager
+ sentinelone
+ slack administration
+ solarwinds nmc
+ zoom room administration
+ migration tools such as beyondcompare syncovery etc
+ it glue
+ tyco entrapass access control
+ extensis universal type server
+
+its all about you
+
+at pmc your wellness is top of mind we offer a comprehensive benefits package to nurture you and your loved ones including pets our package includes healthcare medical dental and vision hsa with an employer contribution fsa healthcare dependent care  commuter eap employee assistance program life insurance  with an employer match paid parental leave longterm disability generous paid time off pto pet insurance and home  auto insurance our wellness initiatives rotate yoga meditation wellness weeks on a variety of topics and financial wellness
+
+the hiring process
+
+your resume will be reviewed as soon as possible after receiving it every round is designed to give you an opportunity to meet members of our team and ask questions the first interview will be with the director of it networkinfrastructure and will focus on your previous experience skillset and how you could be an asset to the pmc it team this round may also include a practical test in the second round you will meet with other members of the it team and will focus on team culture and how you like to work
+
+about pmc
+
+pmc is a leading independent global media and information services company whose awardwinning content attracts a passionate monthly audience of more than  million since  penske media has been a pioneer in digital media and a platform innovator reaching viewers on all screens across its evergrowing constellation of iconic brands which includes deadline variety rolling stone billboard the hollywood reporter vibe wwd she media robb report sportico bgr artnews art in america fairchild media and spycom among many others pmcs journalists and content creators deliver daily the most comprehensive news and information in their industries and areas of coverage unequaled in ambition depth and courage headquartered in new york and los angeles with additional offices in  countries worldwide pmc believes companies should not only be profitable but also forces for good to learn more about pmc our  foundation and our portfolio of brands please visit

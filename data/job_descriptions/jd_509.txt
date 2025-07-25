@@ -1,0 +1,39 @@
+about the role
+
+we are seeking an experienced leader to lead the design implementation and operation of a prospect feeder capability for the angis marketplace businesses including ads and leads the ideal candidate will possess both the technical and operational best practices associated with sourcing aggregating and distributing sales leads for large inside sales teams
+
+what youll do
+ grow prospect database using bestinclass lead prospecting tools and cleansing sources
+ bolster database quality and accuracy via data appends lead enhancement tools and lead scoring techniques
+ integrate our ads leads and services databases in order to effectively and efficiently maximize revenues and profits
+ define lead management and distribution guidelines that maximize profit generation for the angi marketplace across ads and leads businesses
+ oversee lead quality engagement and conversion metrics to ensure continuous maximization of lead value creation
+ guide the design and development data infrastructures required to enable realtime data analytics reporting and lead performance management
+ manage and lead team of data sourcing management and distribution specialists
+
+who you are
+ must have direct experience with prospect development or administration in sales environment
+ preferred education in sql database reporting tools and web scraping software
+ proven success in developing and leading high performing teams
+ excellent communication skills to translate complex problems using nontechnical terms
+ ability to analyze interpret and organize large amounts of data quickly
+ indepth understanding of modern database and information technologies
+ excellent problemsolving and analytical skills
+ ability to meet multiple deadlines simultaneously
+ thorough understanding of management and data administration duties such as analysis distribution people management and performance management
+ champion company initiatives minimize risk for the business and proactively find ways to maximize profits for your group
+
+we value diversity
+
+we know that the best ideas come from teams where diverse points of view uncover new solutions to hard problems we welcome and value individuals who bring diverse life experiences educational backgrounds cultures and work experiences
+
+compensation  benefits
+ the salary band for this position ranges commensurate with experience and performance compensation may vary based on factors such as cost of living
+ this position will be eligible for a competitive year end performance bonus  equity package
+ full medical dental vision package to fit your needs
+ flexible vacation policy work hard and take time when you need it
+ pet discount plans  retirement plan with company match 
+ the rare opportunity to work with sharp motivated teammates solving some of the most unique challenges and changing the world
+
+liremote
+biremote

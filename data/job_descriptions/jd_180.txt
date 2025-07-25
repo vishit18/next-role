@@ -1,0 +1,67 @@
+your job
+
+if you are an engineer whos passionate about building innovative products that scale to tens of millions of page views a day indeed is looking for you indeeds job search engine serves billions of search queries every month connecting tens of millions of jobseekers to relevant job opportunities we constantly dig into the data available at indeed to analyze inform and develop solutions to the right problems
+
+the marketing enablement team is looking for a staff software engineer to join and lead a team responsible for building systems frameworks and tools that integrate vast amounts of data from multiple different sources you will play a key role in developing high performing large scale backend systems that enable complex analytics to be done by marketing teams here at indeed
+
+the majority of tasks in this role will be backend focused and work can be done  remotely
+
+who you are
+
+requirements
+
+ years of experience programming in one of the following languages java c c python or go
+bs degree or above in computer science computer engineering electrical engineering mathematics or a closely related technical field
+experience building applications or a collection of connected systems that communicate via a network connection
+significant experience with large scale highperformance systems
+experience mentoring and leading code review sessions with less experienced engineers
+experience owning large scale features systems or applications from requirement definition through implementation
+ability to define product roadmaps and system design architecture
+ability to effectively partner with the business and cross functional teams to ensure goals are met
+provide handson technical leadership that positively impacts and scales across internal teams
+
+we get excited about candidates who
+
+have strong experience creating rest apis
+have strong experience with java and api architecture
+familiarity with debugging distributed systems
+are faststarters on picking up new codebase or technologies
+practice and thrive in an agile environment
+
+who we are
+
+the small to medium businesses smb organization at indeed develops products centered around the hiring needs of smb businesses making the hiring process simpler faster and more effective so they always find the talent that is right for their business when they need it the solutions we provide are focused on three main pillars including building for the longterm delivering the hire and driving performance the impact of our work helps grow companies and communities around the world
+
+our mission
+
+as the worlds number  job site our mission is to help people get jobs we strive to cultivate an inclusive and accessible workplace where all people feel comfortable being themselves were looking to grow our teams with more people who share our enthusiasm for innovation and creating the best experience for job seekers
+
+comscore total visits september 
+
+salary range disclaimer
+
+the base salary range represents the low and high end of the indeed salary range for this position actual salaries will vary depending on factors including but not limited to location experience and performance the range listed is just one component of indeeds total compensation package for employees other rewards may include quarterly bonuses restricted stock units rsus an open paid time off policy and many regionspecific benefits
+
+salary range transparency
+
+us remote    usd per year
+
+equal opportunities and accommodations statement
+
+indeed is deeply committed to building a workplace and global community where inclusion is not only valued but prioritized were proud to be an equal opportunity employer seeking to create a welcoming and diverse environment all qualified applicants will receive consideration for employment without regard to race color religion gender gender identity or expression family status marital status sexual orientation national origin genetics neurodiversity disability age or veteran status or any other nonmerit based or legally protected grounds
+
+indeed is committed to providing reasonable accommodations to qualified individuals with disabilities in the employment application process to request an accommodation please contact talent attraction help at  or by email at at least one week in advance of your interview
+
+fair chance hiring
+
+we value diverse experiences including those who have had prior contact with the criminal legal system we are committed to providing individuals with criminal records including formerly incarcerated individuals and individuals with arrest or conviction records a fair chance at employment we also comply with state and local requirements such as the san francisco fair chance ordinance
+
+our policies and benefits
+
+view indeeds applicant privacy and accessibility policies 
+
+learn about our global employee perks programs and benefits 
+
+where legally permitted indeed requires all individuals attending or working out of indeed offices or visiting indeed clients to be fully vaccinated against covid for positions that can only be performed at an indeed office candidates must be fully vaccinated against covid and present acceptable proof of vaccination by the date of hire as a condition of employment for positions that require some inoffice work or inperson client meetings exceptions to these inoffice or inperson job requirements may be made at the discretion of the business through june  at which point full vaccination will be required indeed will consider requests for reasonable accommodation as required under applicable law to qualify as being fully vaccinated against covid there should have been a two week period after receiving the second dose or any government recommended booster shot in a dose covid vaccine series or a two week period after receiving a singledose or any government recommended booster shot in a single dose covid vaccine
+
+reference id

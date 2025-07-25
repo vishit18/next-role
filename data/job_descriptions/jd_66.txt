@@ -1,0 +1,77 @@
+company description
+
+about digitas
+
+digitas is the connected marketing agency committed to helping brands better connect with people through truth connection wonder with diverse expertise in data strategy creative media and tech we work across capabilities and continents to make better connections and achieve ambitious outcomes through ideas that excite provoke and inspire curious and fully transparent we are always examining real human behavior to create authentic connectionsbetween brands and consumers clients and partners and ideas and outcomes digitas has  employees across  countries and  offices with an extended network via publicis media of over  employees present in more than  countries worldwide to connect with digitas or learn more visit 
+
+what can you expect from us the groupe
+
+a people first culture where exceptional product is crucial
+
+with this mindset creating nurturing and leading by example to deliver the best ideas bar none as leo burnett himself said many years ago to help our clients grow in a platform world is core to our dna we are collaborative by nature and construct and reward performance and domain expertise this groupe os positions us the only groupe in malaysia genuinely capable of full platform orchestration and we welcome anyone with the passion for the alchemy of creativity and technology to growand have some fun along the way
+
+job description
+
+senior frontend engineer  technology
+
+digitas is a highlycaffeinated playground where brilliant minds come together to bring bold awardwinning ideas to life
+
+we use datadriven insights to guide our work but we also believe in a healthy dose of spirited storytelling paving the way for this is our amazing technology team dedicated to transforming the marketing landscape right now were looking for a senior frontend engineer to lead the charge up for it read on
+
+what youll do
+
+as senior frontend engineer of technology youll deploy innovative solutions for a variety of projects youll design and build highly dynamic datadriven internetbased platforms and keep current on the latest developments and trends in internetbased technologies
+
+daytoday your role includes
+ contributing to the technical design and implementation of practical maintainable project solutions
+ front end development and testing of web and mobile applications
+ performing code reviews developing and adhering to coding standards for efficiency readability and reuse
+ maintaining a consistent focus on quality for projects
+ staying on top of evolving web standards
+ encouraging team awareness and adoption of relevant emerging technologies
+ working comfortably within a dynamic challenging environment to meet client delivery deadlines
+ openly communicating project status risks and challenges
+ serving as a recognized subject matter expert within fields of expertise
+
+qualifications
+
+were looking for strong impactful work experience which typically includes
+ deep familiarity with the digital environment
+ experienced in providing to the technical design and implementation of practical maintainable project solutions
+  years of experience with frontend technologies
+ demonstrable experience developing and testing modern javascript client applications  preferably react jquery
+ proven results and history of solution delivery working with  xhtml css
+ knowledge of common productivity tools such as gulpwebpack  git source control
+ experience translating designs into completed html pages while strictly adhering to specifications
+ familiarity with concepts related to data flow and component driven architectures with practical experience
+ integrating presentation layer code with cms and portal technologies
+ working closely with backend developers to ensure the integrity of the ui throughout the development lifecycle
+ creating unit tests to ensure visual consistency and proper functionality across releases ensure crossbrowser crossplatform and multiple device type compatibility and resolve issues
+ understanding of the fundamentals of modern web development crossbrowser functionality accessibility etc
+ ability to assess existing solutions for usefulness usability and coding techniques
+ solid understanding of web technologies responsive design and alignment with the latest trends and best practices
+ performing code reviews developing and adhering to coding standards for efficiency readability and reuse
+ the capability to lead or contribute to a fastpaced agile delivery team
+ serving as a recognized subject matter expert within fields of expertise
+ a willingness to explore and find creative solutions to difficult problems
+ maintaining a consistent focus on quality for projects
+ staying on top of evolving web standards
+ encouraging team awareness and adoption of relevant emerging technologies
+ working comfortably within a dynamic challenging environment to meet client delivery deadlines
+ openly communicating project status risks and challenges
+ excellent communication timemanagement and processmanagement skills
+ good exposure to agile scrum working environments
+
+nice to have
+
+ experience in integration with adobe experience manager
+
+ node graphql typescript
+
+ sql and document databases
+
+ cloud platforms such as aws and architectures for leveraging their capabilities
+
+ docker and kubernete
+
+ experience managing build pipeline dependencies

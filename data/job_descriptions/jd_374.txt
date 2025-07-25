@@ -1,0 +1,95 @@
+citrix builds the secure digital workspace technology that frees  customers to do their very best work from anywhere by joining our awardwinning workplace youll be included in the globally diverse collaborative team that values worklife balance come see why fortune named us one of the  best companies to work for lets innovate and grow together
+
+what were looking for
+
+citrix mission
+
+at citrix our mission is to deliver an intelligent digital citrix workspace experience that empowers all employees with unified secure and reliable access to all the work resources and applications needed to be productive and do their best work  anytime anywhere citrix provides work solutions for any workspace platforms and seamless integration across all apps citrix provides products and it information technology solutions to collaborate work management provides modern and consistent user experience across all devices and through application integration workflow automation and our cloudbased technology and zero trust security enabling our clients and end users with the best enterprise performance modernization and security
+
+every day youll have new opportunities to grow and innovate in ways that will make work better for millions of people around the world citrix has been ranked  on the fortunes best workplaces in technology in  thousands of organizations around the world trust citrix to keep their apps available their data safe and their people productivewherever and whenever work happens
+
+more than  companies around the world including  percent of the fortune  rely on citrix digital workspace solutions to provide secure reliable access to the applications and information their employees need to engage and be productive with over  million users worldwide
+
+position overview
+
+citrix engineering is hiring the citrix boston engineering team is experiencing explosive growth we are looking for candidates who possess the curiosity to continually improve and enjoy tackling challenging problems to solve some of the most complex problems in our domain in windows app delivery group you will be working with the greatest minds in the industry on cutting edge os and application virtualization technologies and best of breed cloud development our teams are working on a number of exciting projects this year from building out new c business logic to deliver applications over the network to tens of thousands of machines
+
+a core part of our engineering culture is inclusiveness we want to create teams of people from diverse backgrounds and walks of life our engineering group is a scrum organization that believes in empowering small teams of smart engineers to deliver end to end customer value we believe that vertically focused teams instead of horizontal teams focused on one technology layer is the best way to focus on delivering high quality software and making our customers successful our team culture is a unique blend that combines the structured vision and process maturity of a wellestablished software company with the dynamism and vibrancy of a small startup our software enables our customers to achieve amazing things
+
+we are a passionate collaborative and innovate team focused on developing the next generation of products that will enable businesses to deliver their business applications on premises and in the cloud the local engineering team currently has   people organized into teams of    individuals we do everything with a team focus giving each team a goal and letting them collaboratively design develop and deploy a solution to that goal we work in scrum and collaborate extensively within our teams egos get checked at the door we learn from each other and help each other
+
+what were looking for
+ you are a senior software engineer with at least  plus years of experience in objectoriented programming with c and net technologies
+ senior software engineer with handson programming skills and extensive knowledge of programming constructs data structures algorithms and scripting languagesframework and a passion for solving complex problemss
+ a passion for building high quality software we want to design in quality and leverage automation everywhere we can
+ always learning we value trying out new design patterns tools and processes to make both the organization better and keep our skills up to date
+ you enjoy working in a dynamic fastpaced environment and have a passion for delivering innovative solutions that enable our customers to transform their business by leveraging the latest cloud technologies
+
+role responsibilities
+ collaborate with product managers product design devops and product security teams to understand requirements for software development in a scaled agile environment
+ responsibilities range from conceptualizing ideas targeted research with rapid prototyping to determine feasibility risk evaluation and then create wellthoughtout software designs and implementation
+ compose and maintain detailed design specifications and component documents
+ design alongside a team of engineers focusing on design first thinking while incorporating different enduser personas
+ implement frontend and backend business logic for new features full stack development
+ delivering solutions that make a noticeable impact for the end customer
+ embrace and implement agile development framework and methodologies safe scrum kanban etc
+ embrace and institute best practices and coding standards eg code reviews logging and instrumentation staticdynamic code analysis code coverage unit integration tests within the team
+
+basic qualifications
+ bs or ms degree or equivalent in a technical field preferred with minimum  years of directly related work experience equivalent experience may be substituted for formal education
+  plus years of experience with objectoriented programming with c and net technologies
+ experience developing backend services microservice cloud services rest api or web api is required
+ demonstrated experience in writing clean code in large codebases
+ strong understanding of computer science fundamentals algorithms and data structures
+ experience with aws or azure cloud platform
+
+personal qualities we look for
+ strong written and verbal communication skills
+ selfmotivated individuals with a strong desire to learn and develop
+ can handle ambiguity well has a growth mindset and is a team player with a passion for technology
+ a cando positive and proactive attitude
+
+why work for citrix
+
+come and work with one of the most innovative and forwardthinking technology companies on planet earth you will get to work alongside some of the brightest most talented and passionate people in the world as a member of team youll be uniquely and strategically positioned to work on cool and exciting projects that will have a direct impact for our customers in numerous industries well into the future
+
+at citrix we want to help set you up for a successful career with us we support ideation experimentation innovation and collaboration to build innovative it products and solutions were obsessed about making our customers and end users happy we are an innovative engine for our colleagues communities customers and endusers in the digital marketplace
+
+citrixs pillars of core values are integrity respect curiosity courage and unity the work at citrix is exhilarating and thats what makes it a whole lot of fun come and work with highimpact teams lets embark on this next great adventure together
+
+apply today
+
+at citrix our employees perform extraordinary acts of creativity and service every day we provide benefits and rewards that meet the diverse needs of our employees by offering competitive compensation comprehensive benefits and equitable rewards opportunities for all employees in the state of colorado the salary for this role generally ranges from  to  but may vary depending on your qualifications including jobrelated education training experience licensure and certification that could result at a level outside of this range certain roles are eligible for additional rewards including annual bonus sales incentives andor stock depending on the terms of the applicable plan and role as well as individual performance benefits may vary depending on the nature of your employment with citrix and the country where you work us based employees are typically offered access to healthcare life insurance and disability benefits k plan and company match employee stock purchase program espp and education assistance program among others
+
+functional area
+
+software development
+
+what youre looking for
+everyone is welcome at citrix we prioritize diversity equity inclusion and a culture of belonging and celebrate bringing our courageous authentic selves to work we believe this way of working helps us innovate and its just one of the reasons why our employees continuously recognize citrix as a great place to work
+
+citrix helps make work more sustainable to benefit the planet our business and our communities for more than  years we have empowered individuals and organizations to work remotely or work from anywhere reducing commuting emissions and energy consumption in the process
+
+we are the  leader in virtual client computing vcc and  in the application delivery controller adc space and we have key partnerships with top cloud providers well give you the tools learning opportunities mentorship and flexibility to achieve your goals come see why you belong at citrix with our culture supporting purposeful innovation and growth from within
+
+the benefits
+we offer a competitive total rewards package that includes
+  weeks of paid parental leave
+ health and wellness benefits
+ employee assistance program
+ retirement benefits
+ education assistance
+ time off and absence programs
+ professional development and mentorship opportunities
+ paid volunteer time and charitable matching of employee donations
+ employee resource groups
+ and more
+ please note that benefits may vary based on location
+
+citrix systems inc is firmly committed to equal employment opportunity eeo and to compliance with all federal state and local laws that prohibit employment discrimination on the basis of age race color gender sexual orientation gender identity ethnicity national origin citizenship religion genetic carrier status disability pregnancy childbirth or related medical conditions marital status protected veteran status and other protected classifications
+
+citrix uses applicant information consistent with the citrix recruitment policy notice at 
+
+citrix welcomes and encourages applications from people with disabilities reasonable accommodations are available on request for candidates taking part in all aspects of the selection process if you are an individual with a disability and require a reasonable accommodation to complete any part of the job application process please contact us at   or email us at askhrcitrixcom for assistance
+
+by applying you are giving citrix consent to be considered for future openings of other roles of similar qualifications

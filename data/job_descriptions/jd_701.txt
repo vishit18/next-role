@@ -1,0 +1,40 @@
+iconiq capital is a privately held investment firm serving some of the worlds most influential families and organizations iconiq provides financial advisory and family office services and manages direct investments where technology and traditional asset classes intersect with a focus on technology growth equity buyout and real estate
+
+open position systems administrator
+
+iconiq capital is seeking to hire a systems administrator to join our growing technology team this role works in collaboration with our vendors and internal resources to provide world class infrastructure technology and project support
+
+principal responsibilities
+ serve as the technical knowledge expert for core enterprise infrastructure support servers storage network email cybersecurity telecom windows macos cloud saas applications
+ collaborate with our internal it staff and external consultants to support the technical initiatives of the firm
+ lead various it projects including securityrelated initiatives to completion
+ collaborate with project teams or lead technical projects which support design development and implementation of infrastructure initiatives
+ author documentation for technical systems and contribute to knowledge base and expertise of the technology team
+ manage technology projects and collaborate with cross functional teams to complete project goals on time and to budget
+ create documentation as required for system related changes and updates
+ assist in developing implementing and migrating systems to azure and 
+ write and maintain custom scripts to increase system efficiency and lower the human intervention time on daily tasks
+
+qualifications
+  years experience as a network manager systems administrator technical lead systems architect or related role
+ enterprise level exchange to  migration experience
+ proficient in understanding implementing and adapting to new technologies
+ excellent verbal and written communication skills and strong interpersonal skills
+ experience leading it projects from conceptplanning phase through a successful completion
+ a collaborative proactive can do attitude and the willingness to take on any task required for the betterment of the team
+ excellent time management skills and an ability to multitask in a fastpaced dynamic environment
+ expertise in multiple of the following technologies and a working knowledge of others
+ microsoft windows active directory  exchange
+ vmware
+ shoretel phone systems
+ cisco  palo alto networks firewalls
+ desktop operating systems  common application troubleshooting windows  mac
+ networking  server hardware including hyperconverged appliances
+ cybersecurity  encryption
+ layer  network protocol troubleshooting and deployment expertise
+ bachelors degree in cs information technology or related field preferred
+
+location
+ new york ny or san francisco
+
+effective  all job offers shall be contingent upon the job applicant submitting proof that they are fully vaccinated by their start date or have obtained an approved medical or religious exemption as an accommodation per cdc guidance people are considered fully vaccinated for covid  weeks after they have received the second dose in a dose series pfizerbiontech or moderna or  weeks after they have received a singledose vaccine johnson  johnson janssen at present only fully vaccinated employees are allowed in the firms offices
