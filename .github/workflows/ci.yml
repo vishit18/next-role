@@ -1,0 +1,36 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.11
+
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run Lint (basic check)
+      run: |
+        python -m py_compile app/*.py cli/*.py
+
+    - name: Build Docker Image
+      run: |
+        docker build -t nextrole-test .
+
+    - name: Run CLI Matcher Test
+      run: |
+        python cli/match.py --jd data/job_descriptions/sample_jd.txt --resumes data/test_resumes
