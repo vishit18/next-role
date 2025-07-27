@@ -4,7 +4,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')
 import glob
 import argparse
 from app.matcher import score_resumes, convert_to_10pt
-from app.parser import parse_pdf_to_text  # Assuming you have a parser function for PDF
+from app.parser import extract_text
 
 def load_text_file(file_path):
     if not os.path.isfile(file_path):
@@ -27,7 +27,7 @@ def load_resume_texts(resumes_folder):
         ext = os.path.splitext(file)[1].lower()
         if ext == '.pdf':
             # parse PDF to text using your parser function
-            text = parse_pdf_to_text(file)
+            text = extract_text(file)
             if text.strip():
                 resume_texts.append(text)
             else:
