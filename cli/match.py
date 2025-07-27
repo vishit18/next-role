@@ -1,16 +1,15 @@
 import sys
 import os
+from pathlib import Path
 
 print("Environment variables:", dict(os.environ))  # DEBUG: shows all env vars
 
 CI_MODE = os.environ.get("CI", "").lower() == "true" or os.environ.get("RUN_IN_CI", "").lower() == "true"
 
 if CI_MODE:
-    print("Running in CI mode, skipping GUI.")
+    print("Running in CI mode, using CLI file selectors.")
 else:
     print("Running in local mode with GUI.")
-
-from pathlib import Path
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
@@ -18,10 +17,34 @@ from app.parser import extract_text
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+
+def cli_pick_file_from_folder(folder_path: Path, extension="*.txt", prompt="Select a file"):
+    files = sorted(folder_path.glob(extension))
+    if not files:
+        print(f"[CI] No files found in '{folder_path}' with extension '{extension}'. Exiting.")
+        exit(1)
+
+    print(f"\nAvailable files in '{folder_path}':")
+    for i, f in enumerate(files, 1):
+        print(f"{i}. {f.name}")
+
+    choice = input(f"{prompt} (enter number): ")
+    try:
+        idx = int(choice) - 1
+        if 0 <= idx < len(files):
+            return files[idx]
+        else:
+            print("Invalid selection number. Exiting.")
+            exit(1)
+    except ValueError:
+        print("Invalid input, please enter a number. Exiting.")
+        exit(1)
+
+
 def pick_file(title="Select a file", filetypes=None):
     if CI_MODE:
-        print("[CI] Skipping GUI for job description, using fixed test file.")
-        return Path("data/job_descriptions/sample_jd.txt")
+        jd_folder = Path("data/job_descriptions")
+        return cli_pick_file_from_folder(jd_folder, "*.txt", "Choose the Job Description file")
 
     try:
         from tkinter import Tk, filedialog
@@ -32,6 +55,7 @@ def pick_file(title="Select a file", filetypes=None):
                 ("PDF files", "*.pdf"),
                 ("Word documents", "*.docx"),
             ]
+
         root = Tk()
         root.withdraw()
         file_path = filedialog.askopenfilename(title=title, filetypes=filetypes)
@@ -43,15 +67,42 @@ def pick_file(title="Select a file", filetypes=None):
         return None
 
 
+def cli_pick_multiple_files_from_folder(folder_path: Path, extensions=("*.pdf", "*.docx", "*.txt"), prompt="Select files"):
+    files = []
+    for ext in extensions:
+        files.extend(folder_path.glob(ext))
+    files = sorted(files)
+    if not files:
+        print(f"[CI] No files found in '{folder_path}' with extensions {extensions}. Exiting.")
+        exit(1)
+
+    print(f"\nAvailable resume files in '{folder_path}':")
+    for i, f in enumerate(files, 1):
+        print(f"{i}. {f.name}")
+
+    print("Enter the numbers of the resumes you want to select, separated by commas (e.g., 1,3,5):")
+    choice = input("Your choice: ")
+    try:
+        indices = [int(x.strip()) - 1 for x in choice.split(",")]
+        selected = []
+        for idx in indices:
+            if 0 <= idx < len(files):
+                selected.append(files[idx])
+            else:
+                print(f"Invalid index: {idx+1}. Ignoring.")
+        if not selected:
+            print("No valid resumes selected. Exiting.")
+            exit(1)
+        return selected
+    except ValueError:
+        print("Invalid input, please enter numbers separated by commas. Exiting.")
+        exit(1)
+
+
 def pick_files(title="Select one or more resume files"):
     if CI_MODE:
-        print("[CI] Skipping GUI for resumes, using test folder files.")
-        folder = Path("data/test_resumes/resumes")  # <-- add 'resumes' subfolder here
-        files = sorted(folder.glob("*.*"))  # adjust extensions if you want, e.g., "*.pdf"
-        if not files:
-            print("[CI] No resumes found in test folder, exiting.")
-            exit(1)
-        return files
+        resumes_folder = Path("data/test_resumes/resumes")
+        return cli_pick_multiple_files_from_folder(resumes_folder, ("*.pdf", "*.docx", "*.txt"), "Choose resume files")
 
     try:
         from tkinter import Tk, filedialog
