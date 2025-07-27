@@ -1,9 +1,0 @@
-it desktop packaging engineer with the following expertiseknowledge
- the ability to package and deploy windows desktop applications making use packaging toolsutilities ie flexera admin studio vbscript or power shell appv and microsoft configuration manager and workspace one
- experience with collaborating across desktop infrastructure technology teams to provide technically sound solutions
- experience in application interaction with operating systems including the windows registry com object registration systemuser variables and usercentric data related to application settings
- the ability to interact with business users and to translate their packaging requirements into elegant technically sound solutions
- strong windows  technical skills in both the physical and virtual desktop environment
- knowledge of system center configuration manager sccm
-desired
- packaging and deploying of apple applications using workspace one would be an advantage any experience in the virtualization of windows applications

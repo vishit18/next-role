@@ -1,169 +1,93 @@
-import sys
 import os
-from pathlib import Path
+import glob
+import sys
+from app.matcher import match_resume_to_jd
 
-print("Environment variables:", dict(os.environ))  # DEBUG: shows all env vars
+# Constants for data folders
+JD_FOLDER = "data/job_descriptions"
+RESUMES_FOLDER = "data/test_resumes"
 
-CI_MODE = os.environ.get("CI", "").lower() == "true" or os.environ.get("RUN_IN_CI", "").lower() == "true"
+def exit_with_message(msg):
+    print(f"Error: {msg}")
+    sys.exit(1)
 
-if CI_MODE:
-    print("Running in CI mode, using CLI file selectors.")
-else:
-    print("Running in local mode with GUI.")
+def check_required_folders():
+    if not os.path.exists(JD_FOLDER):
+        exit_with_message(f"Job Descriptions folder '{JD_FOLDER}' not found. Please create and add your JD files.")
+    if not os.path.exists(RESUMES_FOLDER):
+        exit_with_message(f"Resumes folder '{RESUMES_FOLDER}' not found. Please create and add your resume files.")
 
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+    if len(os.listdir(JD_FOLDER)) == 0:
+        exit_with_message(f"No job description files found in '{JD_FOLDER}'. Please add your JD files before running.")
+    if len(os.listdir(RESUMES_FOLDER)) == 0:
+        exit_with_message(f"No resumes found in '{RESUMES_FOLDER}'. Please add your resume files before running.")
 
-from app.parser import extract_text
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+def list_files(folder, pattern="*.txt"):
+    files = sorted(glob.glob(os.path.join(folder, pattern)))
+    return files
 
-
-def cli_pick_file_from_folder(folder_path: Path, extension="*.txt", prompt="Select a file"):
-    files = sorted(folder_path.glob(extension))
-    if not files:
-        print(f"[CI] No files found in '{folder_path}' with extension '{extension}'. Exiting.")
-        exit(1)
-
-    print(f"\nAvailable files in '{folder_path}':")
-    for i, f in enumerate(files, 1):
-        print(f"{i}. {f.name}")
-
-    choice = input(f"{prompt} (enter number): ")
-    try:
-        idx = int(choice) - 1
-        if 0 <= idx < len(files):
-            return files[idx]
+def pick_file_interactive(files, prompt):
+    print(f"\nAvailable files to choose from ({len(files)}):")
+    for i, f in enumerate(files, start=1):
+        print(f"{i}. {os.path.basename(f)}")
+    while True:
+        choice = input(f"{prompt} (enter number): ").strip()
+        if not choice.isdigit():
+            print("Invalid input. Please enter a number.")
+            continue
+        idx = int(choice)
+        if 1 <= idx <= len(files):
+            return files[idx - 1]
         else:
-            print("Invalid selection number. Exiting.")
-            exit(1)
-    except ValueError:
-        print("Invalid input, please enter a number. Exiting.")
-        exit(1)
+            print(f"Please enter a number between 1 and {len(files)}.")
 
+def load_text_file(path):
+    with open(path, "r", encoding="utf-8") as f:
+        return f.read()
 
-def pick_file(title="Select a file", filetypes=None):
-    if CI_MODE:
-        jd_folder = Path("data/job_descriptions")
-        return cli_pick_file_from_folder(jd_folder, "*.txt", "Choose the Job Description file")
+def main():
+    import argparse
 
-    try:
-        from tkinter import Tk, filedialog
+    check_required_folders()
 
-        if filetypes is None:
-            filetypes = [
-                ("Text files", "*.txt"),
-                ("PDF files", "*.pdf"),
-                ("Word documents", "*.docx"),
-            ]
+    parser = argparse.ArgumentParser(description="Match resumes against a job description.")
+    parser.add_argument("--jd", type=str, help="Path to the Job Description text file")
+    parser.add_argument("--resumes", type=str, help="Path to folder containing resume files (optional)")
+    args = parser.parse_args()
 
-        root = Tk()
-        root.withdraw()
-        file_path = filedialog.askopenfilename(title=title, filetypes=filetypes)
-        root.update()
-        return Path(file_path) if file_path else None
-    except Exception as e:
-        print("GUI not supported. Exiting.")
-        print(e)
-        return None
+    jd_path = None
 
+    # Job Description file selection logic
+    if args.jd:
+        if not os.path.isfile(args.jd):
+            exit_with_message(f"JD file '{args.jd}' does not exist.")
+        jd_path = args.jd
+    else:
+        # Pick interactively from JD_FOLDER
+        jd_files = list_files(JD_FOLDER)
+        jd_path = pick_file_interactive(jd_files, "Select Job Description file")
 
-def cli_pick_multiple_files_from_folder(folder_path: Path, extensions=("*.pdf", "*.docx", "*.txt"), prompt="Select files"):
-    files = []
-    for ext in extensions:
-        files.extend(folder_path.glob(ext))
-    files = sorted(files)
-    if not files:
-        print(f"[CI] No files found in '{folder_path}' with extensions {extensions}. Exiting.")
-        exit(1)
+    print(f"\nUsing Job Description file: {os.path.basename(jd_path)}")
+    jd_text = load_text_file(jd_path)
 
-    print(f"\nAvailable resume files in '{folder_path}':")
-    for i, f in enumerate(files, 1):
-        print(f"{i}. {f.name}")
+    # Resumes folder (default to RESUMES_FOLDER)
+    resumes_folder = args.resumes if args.resumes else RESUMES_FOLDER
+    if not os.path.isdir(resumes_folder):
+        exit_with_message(f"Resumes folder '{resumes_folder}' does not exist.")
+    resume_files = list_files(resumes_folder)
+    if len(resume_files) == 0:
+        exit_with_message(f"No resumes found in '{resumes_folder}'. Please add resume files before running.")
 
-    print("Enter the numbers of the resumes you want to select, separated by commas (e.g., 1,3,5):")
-    choice = input("Your choice: ")
-    try:
-        indices = [int(x.strip()) - 1 for x in choice.split(",")]
-        selected = []
-        for idx in indices:
-            if 0 <= idx < len(files):
-                selected.append(files[idx])
-            else:
-                print(f"Invalid index: {idx+1}. Ignoring.")
-        if not selected:
-            print("No valid resumes selected. Exiting.")
-            exit(1)
-        return selected
-    except ValueError:
-        print("Invalid input, please enter numbers separated by commas. Exiting.")
-        exit(1)
+    print(f"Found {len(resume_files)} resumes in '{resumes_folder}'. Starting matching...")
 
-
-def pick_files(title="Select one or more resume files"):
-    if CI_MODE:
-        resumes_folder = Path("data/test_resumes/resumes")
-        return cli_pick_multiple_files_from_folder(resumes_folder, ("*.pdf", "*.docx", "*.txt"), "Choose resume files")
-
-    try:
-        from tkinter import Tk, filedialog
-
-        root = Tk()
-        root.withdraw()
-        file_paths = filedialog.askopenfilenames(
-            title=title,
-            filetypes=[("Documents", "*.pdf *.docx *.txt")],
-        )
-        root.update()
-        return [Path(p) for p in file_paths] if file_paths else []
-    except Exception as e:
-        print("GUI not supported. Exiting.")
-        print(e)
-        return []
-
-
-def score_resumes(jd_text, resume_texts):
-    vectorizer = TfidfVectorizer(stop_words="english", ngram_range=(1, 2))
-    vectorizer.fit([jd_text])
-    jd_vector = vectorizer.transform([jd_text])
-    resume_vectors = vectorizer.transform(resume_texts)
-    similarities = cosine_similarity(jd_vector, resume_vectors)[0]
-    return similarities.tolist()
-
-
-def convert_to_10pt(score, max_score):
-    if max_score == 0:
-        return 0
-    return round((score / max_score) * 10, 2)
-
+    # Run matching for each resume
+    for resume_path in resume_files:
+        resume_text = load_text_file(resume_path)
+        score = match_resume_to_jd(jd_text, resume_text)
+        print(f"Score for {os.path.basename(resume_path)}: {score:.2f}")
 
 if __name__ == "__main__":
-    print("Starting Job Description file picker...")
-    jd_path = pick_file("Select Job Description file")
-    if not jd_path:
-        print("No job description file selected. Exiting.")
-        exit(1)
-
-    print("Starting Resume files picker...")
-    resume_paths = pick_files("Select one or more resume files")
-    if not resume_paths:
-        print("No resumes selected. Exiting.")
-        exit(1)
-
-    print("Extracting text from Job Description and resumes...")
-    jd_text = extract_text(jd_path)
-    resume_texts = [extract_text(p) for p in resume_paths]
-
-    print("Scoring resumes...")
-    scores = score_resumes(jd_text, resume_texts)
-
-    max_score = max(scores) if scores else 0
-
-    results = [
-        (p.name, convert_to_10pt(score, max_score), score)
-        for p, score in zip(resume_paths, scores)
-    ]
-    results.sort(key=lambda x: x[1], reverse=True)
-
-    print("\nResume Scores (Highest to Lowest):")
-    for fname, score_10pt, raw_score in results:
-        print(f"{fname}: {score_10pt}/10 (cosine: {round(raw_score, 4)})")
+    print("\nWelcome to NextRole Resume Matcher CLI")
+    print("Make sure you have added your Job Descriptions in 'data/job_descriptions/'")
+    print("and your resumes in 'data/test_resumes/' before running this script.\n")
+    main()
