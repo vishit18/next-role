@@ -1,32 +1,11 @@
-import os
-from app.match import score_resumes, convert_to_10pt
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
-def match_resume_to_jd(jd_path: str, resumes_folder: str) -> list[tuple[str, float]]:
-    # Load the JD text
-    with open(jd_path, 'r', encoding='utf-8') as f:
-        jd_text = f.read()
+def score_resumes(jd_text: str, resumes: list[str]) -> list[float]:
+    vectorizer = TfidfVectorizer(stop_words="english")
+    vectors = vectorizer.fit_transform([jd_text] + resumes)
+    similarities = cosine_similarity(vectors[0:1], vectors[1:]).flatten()
+    return similarities.tolist()
 
-    # Collect resume file paths
-    resume_files = [
-        os.path.join(resumes_folder, f)
-        for f in os.listdir(resumes_folder)
-        if f.endswith(".txt")
-    ]
-
-    if not resume_files:
-        raise FileNotFoundError("No .txt resumes found in the specified folder.")
-
-    # Read resume contents
-    resume_texts = []
-    resume_names = []
-
-    for file in resume_files:
-        with open(file, 'r', encoding='utf-8') as f:
-            resume_texts.append(f.read())
-            resume_names.append(os.path.basename(file))
-
-    # Score and convert to 10-pt scale
-    raw_scores = score_resumes(jd_text, resume_texts)
-    scaled_scores = [convert_to_10pt(score) for score in raw_scores]
-
-    return list(zip(resume_names, scaled_scores))
+def convert_to_10pt(score: float) -> float:
+    return round(score * 10, 2)
