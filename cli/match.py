@@ -1,10 +1,15 @@
 import os
 import sys
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import glob
 import argparse
+from pathlib import Path
+
+# Ensure app modules can be imported
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from app.matcher import score_resumes, convert_to_10pt
 from app.parser import extract_text
+
 
 def load_text_file(file_path):
     if not os.path.isfile(file_path):
@@ -12,6 +17,7 @@ def load_text_file(file_path):
         sys.exit(1)
     with open(file_path, 'r', encoding='utf-8') as f:
         return f.read()
+
 
 def load_resume_texts(resumes_folder):
     resume_texts = []
@@ -25,16 +31,16 @@ def load_resume_texts(resumes_folder):
 
     for file in resume_files:
         ext = os.path.splitext(file)[1].lower()
-        if ext == '.pdf':
-            # parse PDF to text using your parser function
-            text = extract_text(file)
-            if text.strip():
-                resume_texts.append(text)
-            else:
-                print(f"Warning: PDF '{file}' is empty after parsing.")
-        elif ext == '.txt':
-            with open(file, 'r', encoding='utf-8') as f:
-                resume_texts.append(f.read())
+        path_obj = Path(file)  # ✅ Wrap in Path object
+        if ext == '.pdf' or ext == '.txt':
+            try:
+                text = extract_text(path_obj)  # ✅ extract_text expects a Path
+                if text.strip():
+                    resume_texts.append(text)
+                else:
+                    print(f"Warning: '{file}' is empty after parsing.")
+            except Exception as e:
+                print(f"Error reading '{file}': {e}")
         else:
             print(f"Skipping unsupported file type: {file}")
 
@@ -42,6 +48,7 @@ def load_resume_texts(resumes_folder):
         print(f"Error: No readable resume texts found in '{resumes_folder}'.")
         sys.exit(1)
     return resume_texts
+
 
 def main():
     parser = argparse.ArgumentParser(description="Match resumes to a job description.")
@@ -60,6 +67,7 @@ def main():
     resume_files = glob.glob(os.path.join(args.resumes, '*.pdf')) + glob.glob(os.path.join(args.resumes, '*.txt'))
     for fname, score in sorted(zip(resume_files, scaled_scores), key=lambda x: x[1], reverse=True):
         print(f"{os.path.basename(fname)} : {score}/10")
+
 
 if __name__ == '__main__':
     main()
