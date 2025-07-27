@@ -19,9 +19,18 @@ jobs:
         with:
           python-version: 3.11
 
-      - name: Install Dependencies
+      - name: Upgrade pip, setuptools, wheel
         run: |
-          pip install -r requirements.txt
+          python -m pip install --upgrade pip setuptools wheel
+
+      - name: Clear pip cache and uninstall numpy and pandas
+        run: |
+          pip cache purge
+          pip uninstall -y numpy pandas || true
+
+      - name: Install Dependencies fresh (no cache)
+        run: |
+          pip install --no-cache-dir -r requirements.txt
 
       - name: Run Lint (basic check)
         run: |
